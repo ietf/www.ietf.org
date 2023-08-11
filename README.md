@@ -16,13 +16,14 @@ The following are all being worked on and may change or be reorganised at any po
 * **Culture and Folklore of the IETF**. This is a collection of relevant text, drawn from multiple sources, still to be organised.
 * **RFCs**. This is a collection of relevant text, drawn from multiple sources, lots of it.  No decision has been made on how to pitch this - either as an introduction, or a comprehensive guide.  Some (much?) of this text may be better on the [RFC Editor site](https://www.rfc-editor.org)
 
-
 # Relationship to the Tao of the IETF
 The Tao is evolving into a new set of documents that are written differently but cover much of the same subject matter.  The pages listed here are in many cases, largely drawn from Tao content.
 
-
 # Content style guide
-The follow style guide is applied to this content. 
+
+Please refer to the [styleguide](styleguide.md) for guidance about text.
+ 
+The following general guidance is applied to this content. 
 
 1.  Give coverage only to what really matters without going into details on everything, even if that means leaving some things unexplained or only vaguely touched on. More detail can come in a more specific document. Controlling repetition across the whole website is crucial.
 
