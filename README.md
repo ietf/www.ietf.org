@@ -1,5 +1,14 @@
 This repository contains the authoritative content of key pages from www.ietf.org in order to allow the community to send PRs for that content.
 
+# Types of content
+These are the types of content that we are working on in this repository:
+
+| Type | Description | Audience |
+|------|-------------|----------|
+| Summary | A very short piece (generally no more than 1500 words) that tells people that the subject exists | General public |
+| Introduction | Several paragraphs that very briefly explains the key points about a subject | Potential participants | 
+| Guide | Detailed piece that provides the details of a subject but does not include any arcana or details that are only relevant to a small subset of readers | Participants|
+
 # Published content
 The following have all been published. For now, that is a manual process whereby the content is pasted into the website CMS, but it is hoped that this will be automated in future.  Unless stated otherwise, you are free to submit a PR on any of this content.
 
