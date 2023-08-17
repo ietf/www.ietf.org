@@ -13,7 +13,7 @@ These are the types of content that we are working on in this repository:
 The following have all been published. For now, that is a manual process whereby the content is pasted into the website CMS, but it is hoped that this will be automated in future.  Unless stated otherwise, you are free to submit a PR on any of this content.
 
 * **Introduction to the IETF**. This is a complete [page](https://www.ietf.org/about/introduction/).  By necessity, this page has content in it that is repeated elsewhere, but excessive detail should be avoided.
-* **Introduction to IETF Meetings**. This is a complete [ page](https://www.ietf.org/how/meetings/introduction-to-ietf-meetings/).  It is written largely for those new to IETF meetings and is intentionally a long read.  Some elements are intentionally just brief references to other pages (e.g. Meeting Technology, Support for New Participants).
+* **Guide to IETF Meetings**. This is a complete [ page](https://www.ietf.org/how/meetings/introduction-to-ietf-meetings/).  It is written largely for those new to IETF meetings and is intentionally a long read.  Some elements are intentionally just brief references to other pages (e.g. Meeting Technology, Support for New Participants).
 * **Support for new participants**. This content is used as a [section](https://www.ietf.org/how/meetings/new-participants/) of a page with the rest of that page including specific information about the upcoming IETF meeting.
 
 # Working content
