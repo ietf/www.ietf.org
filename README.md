@@ -20,13 +20,13 @@ The following have all been published. For now, that is a manual process whereby
 The following are all being worked on and may change or be reorganised at any point.
 
 * **Introduction to Tools and Services**. This is largely complete and just waiting for a change to the menu structure so that it can be published.
-* **Introduction to the groups that comprise the IETF**.  This is largely complete but before it can be published, significant clearing up of the existing groups content is needed. 
-* **Bringing new work to the IETF**. This is a collection of relevant text, drawn from multiple sources, still to be organised. 
+* **Introduction to the structure of the IETF**.  This is largely complete but before it can be published, significant clearing up of the existing groups content is needed. May turn into a Guide.
+* **Introduction to the work of the IETF**. This is a collection of relevant text, drawn from multiple sources, still to be organised. This is likely to lead to one or more Guides to the work.
 * **Culture and Folklore of the IETF**. This is a collection of relevant text, drawn from multiple sources, still to be organised.
 * **RFCs**. This is a collection of relevant text, drawn from multiple sources, lots of it.  No decision has been made on how to pitch this - either as an introduction, or a comprehensive guide.  Some (much?) of this text may be better on the [RFC Editor site](https://www.rfc-editor.org)
 
 # Relationship to the Tao of the IETF
-The Tao is evolving into a new set of documents that are written differently but cover much of the same subject matter.  The pages listed here are in many cases, largely drawn from Tao content.
+The Tao has now evolved into the new set of documents above, which are in many cases largely drawn from Tao content and covering the same subject matter, though written differently.  
 
 # Content style guide
 
