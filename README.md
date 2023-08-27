@@ -1,4 +1,4 @@
-This repository contains the authoritative content of key pages from www.ietf.org in order to allow the community to send PRs for that content.
+This repository contains the authoritative content of key pages from www.ietf.org in order to allow the community to send PRs for that content.  It also contains the documentation of the [information architecture](Information%20Architecture.md) of the site and a discussion on issues and proposed changes.
 
 # Types of content
 These are the types of content that we are working on in this repository:
