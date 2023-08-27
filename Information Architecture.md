@@ -77,6 +77,7 @@ This is a complete reorganization of the menus to provide a new information arch
    * **Open records**
    * **Topics of interest**
    * **Bringing new work to the IETF** : [New]
+   * **Women in the IETF: Systers** : [New]
 * **Standards** :
    * **Internet standards process**
    * **Areas and working groups**
