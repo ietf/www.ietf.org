@@ -22,9 +22,9 @@ With those moved, the footer will be used for 'administrative' type pages such a
 ## Main Menu
 * **About the IETF** : Standards and expected menu item, but the "the IETF" part seems incongruous, it would be more normal to have just 'About' or 'About Us'.
    * **Introduction to the IETF** : This is a new page, well visited.
-   * **Groups** : Has little meaning to those outside the IETF and for insiders can be confused with Working Groups.
-   * **Open records** : Almost all of this is related to the standards process and so this is not the first place people who know this exists will look for it.
-   * **Administration** : Reasonably clear but there are some things like the IETF Trust that people might expect to be under here.
+   * **Groups** : The title has little meaning to those outside the IETF and for insiders can be confused with Working Groups.
+   * **Open records** : This is a tricky one as it could be considered a reference page (and therefore under About), or a core resource that participants need (and therefore under Participate), or data about the standards process (and therefore under Standards).
+   * **Administration** : Reasonably clear title and location but there are some things like the IETF Trust that people might expect to be under here.
    * **Liaisons** : Incongruous location for this, and it is possibly not important enough to be even a second level item.
 * **Topics of Interest** : Needs a rethink. This was originally intended for current topics, but too much work is needed to keep it up, and the IETF is a slow moving organisation so a topic can stay here for some years.
    * **Automated network management**
@@ -66,25 +66,25 @@ This is a complete reorganization of the menus to provide a new information arch
 * **About**
    * **Introduction to the IETF** :
    * **Structure of the IETF** : [New] 
-   * **Privacy and policies** :
+   * **Privacy and policies** : This could go under the Participate item as it's part of the "how".
    * **Administration** :
    * **Contact us** :
-* **Participate**
+* **Participate** : This is where a participant finds all the resources relating to the "how" they participate (title could be "How to participate").  This should be both for those learning to partipate and those long-term participants who need a reference or guide to obscure corners of the IETF.
    * **Participating in the IETF** : [New]
    * **Mailing lists**
-   * **Internet-Drafts**
+   * **Internet-Drafts** : I-Ds are a core resource of the IETF, going much broader than the standards process.
    * **Tools and sub-sites** : [New]
    * **Open records**
    * **Topics of interest**
    * **Bringing new work to the IETF** : [New]
-   * **Women in the IETF: Systers**
-* **Standards** :
+   * **Women in the IETF (Systers)**
+* **Standards** :  This is very specifically for the Internet Standards work of the IETF and should not include things that are broader in scope.
    * **Internet standards process**
    * **Areas and working groups**
    * **Birds of a feather**
-   * **IPR declarations**
-   * **Protocol registries** : [Was IANA]
-   * **External liaisons**
+   * **IPR declarations** : This might be sufficiently broader than the standards process that it belongs in Participate.
+   * **Protocol registries (IANA)** : [Was IANA]
+   * **External liaisons** : External liaison are with SDOs and related to the standards work. 
 * **Meetings** : While meetings exist solely to further the work of the IETF, this is such an often visited area of the site that it needs a top-level menu item.
    * **Guide to IETF meetings**
    * **IETF XXX*** : Home page for upcoming IETF meeting.
@@ -92,7 +92,7 @@ This is a complete reorganization of the menus to provide a new information arch
    * **Past meetings**
    * **Interim meetings**
    * **Meeting technology**
-   * **Side or private meetings**
+   * **Side meetings** : Still includes details about private meetings, but that does not need to be in the title as people recognise "side" as meaning all non-agenda sessions.
    * **Meeting planning**
    * **Hackathons**
 * **Support Us**
@@ -102,11 +102,9 @@ This is a complete reorganization of the menus to provide a new information arch
    * **Endowment**
    * **Ways to give**
    * **Donate**
-* **Engage**
-   * **News/Blog**
-   * **Important announcements**
-   * **Journalists/Media**
-* **RFCs** : Link to the intro page to RFCs on the rfc-editor.org website.
+* **News/Blog**
+* **Research[➚]** : [New] An attempt to integrate the IRTF more into the IETF website, in order to raise the profile of the IRTF and provide better context for RFCs and Meetings, which both have a notable IRTF component.
+* **RFCs[➚]** : Link to the intro page to RFCs on the rfc-editor.org website.
 
 The following all move to the rfc-editor.org site:
 * All pages about RFCs
