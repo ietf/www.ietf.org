@@ -1,6 +1,6 @@
 This documents the current information architecture of www.ietf.org and planned and proposed changes, and explains the reasoning for this.
 
-# Structural issues and planned changes
+# Structural issues and proposed changes
 ## Main menu 
 The current main menu is not ideal as it has unnecessary intermediate pages that are accessed by clicking on the main menu item name instead of one of the drop-down items. These intermediate pages normally just have some introduction text and the same list of items as found on the menu, though in the case of "About the IETF", it has more items than on the menu.  This is both confusing and means that people using a mouse get one experience through hovering, while those on touch devices need to click.
 
@@ -9,14 +9,14 @@ The plan is to replace it with a megamenu - where clicking/hovering on the main 
 ## Links Bar (across the top)
 This is clearly a contentious and confusing part of the IA of this site as it directly competes with the main menu for attention.  Having a simple, prominent link to important parts of the site is useful, but it is not at all clear why those need to be separate from the main menu.  
 
-The plan is to leave only those elements that are features of the front page (such as Search) while all others move either to an appropriate menu or to the footer.
+The proposal is to leave only those elements that are features of the front page (such as Search) while all others move either to an appropriate menu or to the footer.
 
 ## Footer
 The footer currently contains a mix of links of different types, including links to important affiliated sites, a link to a part of the main site, and a link to key legal information. 
 
 The links to affiliated sites are problematic as they are presented without any context or guidance as to their usage, and would be better on a page that explains what they are for.
 
-With those moved, the footer will be used for 'administrative' type pages such as 'Contact Us', which is an common usage of a footer that site visitors will be familiar with.
+With those moved, the proposal is to use the footer for 'administrative' type pages such as 'Contact Us', which is an common usage of a footer that site visitors will be familiar with.
 
 # Current IA and Commentary
 ## Main Menu
