@@ -2,11 +2,11 @@
 # Background
 After several years of experience operating the current site and with insight from analytics , as well as further evolution of the CMS used for the www.ietf.org site, significant improvements are on offer for the www.ietf.org website. One area of improvement is navigation to better serve key audiences:
 
-+ **Active IETF Participants** Individuals who are already actively participating in the IETF: The redesigned IETF website should be a more effective tool for "getting the work of the IETF done".
++ **Active IETF Participants**Individuals who are already actively participating in the IETF: The redesigned IETF website should be a more effective tool for "getting the work of the IETF done".
 
-+ **New or Potential IETF Participants** Individuals who could participate in and contribute to the IETF: The revamped IETF website should help candidate participants become active contributors.
++ **New or Potential IETF Participants**Individuals who could participate in and contribute to the IETF: The revamped IETF website should help candidate participants become active contributors.
 
-+ **Non-participants looking to find out more about the IETF** These individuals include policy makers, managers of current or potential IETF participants, and C-level executives from the organizations of IETF participants: The revamped website should provide members of this audience a better understanding of the IETF's role as the Internet's premier standards organization.
++ **Non-participants looking to find out more about the IETF**These individuals include policy makers, managers of current or potential IETF participants, and C-level executives from the organizations of IETF participants: The revamped website should provide members of this audience a better understanding of the IETF's role as the Internet's premier standards organization.
 
 This document describes:
 + current general navigation features of www.ietf.org and planned updates to their implementation, and
@@ -60,41 +60,41 @@ This is a complete reorganization of the navigation structure that anticipates t
 
 ## Global navigation menu items
 * About
-** Introduction to the IETF
-** Structure of the IETF
-** Open records
-** Privacy and policies
-** Administration (LLC)
-** External liaisons
+  * Introduction to the IETF
+  * Structure of the IETF
+  * Open records
+  * Privacy and policies
+  * Administration (LLC)
+  * External liaisons
 * Support us
-** Why we need your support
-** Financial supporters
-** Sponsorship
-** Endowment
-** Ways to give
-** Donate
+  * Why we need your support
+  * Financial supporters
+  * Sponsorship
+  * Endowment
+  * Ways to give
+  * Donate
 * Participate
-** Meetings
-** Working groups
-** Mailing lists
-** Internet-Drafts
-** Starting new work
+  * Meetings
+  * Working groups
+  * Mailing lists
+  * Internet-Drafts
+  * Starting new work
 * Internet standards
-** RFCs
-** Standards process
-** Protocol registries (IANA)
-** Intellectual property
+  * RFCs
+  * Standards process
+  * Protocol registries (IANA)
+  * Intellectual property
 * Standards in action
-** Internet of Things
-** Security & privacy
-** [other tech topic that is hot right now in the broader non-tech world]
-** Finding technologies in the IETF
+  * Internet of Things
+  * Security & privacy
+  * [other tech topic that is hot right now in the broader non-tech world]
+  * Finding technologies in the IETF
 
 Comments on proposed navigation structure:
 * About->Structure of the IETF includes items currently listed under [Groups](https://www.ietf.org/about/groups/). In addition to being clearer, it avoids confusion with "Working Groups".
 
 * Participate->Starting new work subsumes the current [Birds of a Feather](https://www.ietf.org/how/bofs/). This is more accurate because not all BoFs lead to work in the IETF and there are other ways to start work.
 
-* [RFCs](https://www.ietf.org/standards/rfcs/) is regularly a top-3 visited page, including a top **entry page**  on the site (after the homepage and the current IETF meeting page), and while not all RFCs are standards, all standards are RFCs so this is a good opportunity to both explain RFCs and point visitors to other content.
+* [RFCs](https://www.ietf.org/standards/rfcs/) is regularly a top-3 visited page, including a top **entry page** on the site (after the homepage and the current IETF meeting page), and while not all RFCs are standards, all standards are RFCs so this is a good opportunity to both explain RFCs and point visitors to other content.
 
 * While the next upcoming meeting page (currently [https://www.ietf.org/how/meetings/118/]) is regularly highly visited, most visitors reach it through the homepage, or directly rather than through sitewide navigation.
