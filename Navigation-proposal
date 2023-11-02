@@ -11,7 +11,7 @@ After several years of experience operating the current site and with insight fr
 This document describes:
 + current general navigation features of www.ietf.org and planned updates to their implementation, and
 
-+ planned changes to the navigation structure and the rationale for them.
++ proposed changes to the navigation structure and the rationale for them.
 
 # General navigation implementation
 
@@ -55,7 +55,7 @@ Also, the footer does not currently contain information and items that are commo
 ### Solution
 A modern approach to the footer section would allow for more of the commonly accepted links and information (social media and copyright), clearer organization of information and links, and greater context for links that would benefit from that.
 
-# Planned navigation structure
+# Proposed navigation structure
 This is a complete reorganization of the navigation structure that anticipates the new approach to the site’s main menu, quick links, and footer. Experience with maintaining current site content and data from analytics inform these changes. Further development and refinement (for example, text providing context for various options) is expected once the megamenu feature is implemented and some user testing undetaken.
 
 ## Global navigation menu items
@@ -90,9 +90,12 @@ This is a complete reorganization of the navigation structure that anticipates t
 ** [other tech topic that is hot right now in the broader non-tech world]
 ** Finding technologies in the IETF
 
-Comments on planned navigation structure:
+Comments on proposed navigation structure:
 * About->Structure of the IETF includes items currently listed under [Groups](https://www.ietf.org/about/groups/). In addition to being clearer, it avoids confusion with "Working Groups".
 
 * Participate->Starting new work subsumes the current [Birds of a Feather](https://www.ietf.org/how/bofs/). This is more accurate because not all BoFs lead to work in the IETF and there are other ways to start work.
 
 * [RFCs](https://www.ietf.org/standards/rfcs/) is regularly a top-3 visited page, including a top **entry page**  on the site (after the homepage and the current IETF meeting page), and while not all RFCs are standards, all standards are RFCs so this is a good opportunity to both explain RFCs and point visitors to other content.
+
+* While the next upcoming meeting page (currently [https://www.ietf.org/how/meetings/118/]) is regularly highly visited, most visitors reach it through the homepage, or directly rather than through sitewide navigation.
+
