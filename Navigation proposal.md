@@ -97,4 +97,6 @@ Comments on proposed navigation structure:
 
 * [RFCs](https://www.ietf.org/standards/rfcs/) is regularly a top-3 visited page, including a top **entry page** on the site (after the homepage and the current IETF meeting page), and while not all RFCs are standards, all standards are RFCs so this is a good opportunity to both explain RFCs and point visitors to other content.
 
+* The "Standards in action* menu item is an updated take on the [Topics of interest](https://www.ietf.org/topics/), which was a key outcome from the previous research with the non-participant audience.
+
 * While the next upcoming meeting page (currently [https://www.ietf.org/how/meetings/118/]) is regularly highly visited, most visitors reach it through the homepage, or directly rather than through sitewide navigation.
