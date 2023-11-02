@@ -2,11 +2,11 @@
 # Background
 After several years of experience operating the current site and with insight from analytics , as well as further evolution of the CMS used for the www.ietf.org site, significant improvements are on offer for the www.ietf.org website. One area of improvement is navigation to better serve key audiences:
 
-+ **Active IETF Participants**Individuals who are already actively participating in the IETF: The redesigned IETF website should be a more effective tool for "getting the work of the IETF done".
++ **Active IETF Participants** Individuals who are already actively participating in the IETF: The redesigned IETF website should be a more effective tool for "getting the work of the IETF done".
 
-+ **New or Potential IETF Participants**Individuals who could participate in and contribute to the IETF: The revamped IETF website should help candidate participants become active contributors.
++ **New or Potential IETF Participants** Individuals who could participate in and contribute to the IETF: The revamped IETF website should help candidate participants become active contributors.
 
-+ **Non-participants looking to find out more about the IETF**These individuals include policy makers, managers of current or potential IETF participants, and C-level executives from the organizations of IETF participants: The revamped website should provide members of this audience a better understanding of the IETF's role as the Internet's premier standards organization.
++ **Non-participants looking to find out more about the IETF** These individuals include policy makers, managers of current or potential IETF participants, and C-level executives from the organizations of IETF participants: The revamped website should provide members of this audience a better understanding of the IETF's role as the Internet's premier standards organization.
 
 This document describes:
 + current general navigation features of www.ietf.org and planned updates to their implementation, and
