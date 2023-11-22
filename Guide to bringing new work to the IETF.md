@@ -2,12 +2,12 @@
 > 1. This is written in the expectation that someone has an idea and they want to bring it to the IETF, not that they just want to get involved anywhere, which goes in a different document.
 > 2. The other documents that this document relies on (and therefore should not duplicate) are:
 >    * For newcomers:
->       * Guide to being effective in the IETF 
->       * Introduction to IPR in the IETF
+>       * [Guide to being effective in the IETF](/Guide%20to%20being%20effective%20in%20the%20IETF.md) 
+>       * Introduction to IPR in the IETF (not yet started)
 >       * How to write an Internet-Draft (the authors website)
 >    * For intermediates:
->       * Guide to IETF Working Groups
->       * Guide to the IETF Standards Process
+>       * Guide to IETF Working Groups (not yet started)
+>       * Guide to the IETF Standards Process (not yet started but will use the [existing doc](https://www.ietf.org/standards/process/informal/) as a base.)
 
 ## Introduction
 The IETF sees over a thousand new ideas brought to it each year from a wide variety of people. Some of these ideas lead directly to new work items, while others contribute to other work, but many go nowhere. This guide explains how to bring new work to the IETF and what that entails.
