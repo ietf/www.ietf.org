@@ -21,7 +21,7 @@ The following are all being worked on and may change or be reorganised at any po
 
 * Introductions:
   * **[Introduction to Tools and Services](/Introduction%20to%20Tools%20and%20Services.md)**. This is largely complete and just waiting for a change to the menu structure so that it can be published.
-  * **[Introduction to the structure of the IETF](/Introduction%20to%20the%20groups%20that%20comprise%20the%20IETF.md)**.  This is largely complete but before it can be published, significant clearing up of the existing groups content is needed. May turn into a Guide.
+  * **[Introduction to the structure of the IETF](/Introduction%20to%20the%20structure%20of%20the%20IETF.md)**.  This is largely complete but before it can be published, significant clearing up of the existing groups content is needed.
   * **[Introduction to the work of the IETF](/Introduction%20to%20the%20Work%20of%20the%20IETF.md)**. This is largely complete as an extended version of the text that appears in the **Introduction to the IETF** but it is not yet clear how this fits with other pages.
 * Guides:
   * **[Guide to bringing new work to the IETF](/Guide%20to%20bringing%20new%20work%20to%20the%20IETF.md)**.  This is drafted and now going through review and update.

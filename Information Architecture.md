@@ -64,19 +64,19 @@ Search will stay as a separate function not associated with a menu, as it is not
 This is a complete reorganization of the menus to provide a new information architecture.
 ## Main Menu
 * **About**
-   * **Introduction to the IETF** : 
-   * **Structure of the IETF** : [New] 
+   * **Introduction to the IETF** : Uses **[Introduction to the IETF](/Introduction%20to%20the%20IETF.md)**
+   * **Structure of the IETF** : [_New_] Will use **[Introduction to the structure of the IETF](/Introduction%20to%20the%20structure%20of%20the%20IETF.md)**
    * **Privacy and policies** : This could go under the Participate item as it's part of the "how".
    * **Administration** :
    * **Contact us** :
 * **Participate** : This is where a participant finds all the resources relating to the "how" they participate (title could be "How to participate").  This should be both for those learning to partipate and those long-term participants who need a reference or guide to obscure corners of the IETF.
-   * **Participating in the IETF** : [New]
+   * **The Work of the IETF** : [_New_] Will use **[Introduction to the Work of the IETF](/Introduction%20to%20the%20Work%20of%20the%20IETF.md)**
    * **Mailing lists**
-   * **Internet-Drafts** : I-Ds are a core resource of the IETF, going much broader than the standards process.
-   * **Tools and sub-sites** : [New]
+   * **Tools and sub-sites** : [_New_] Will use **[Introduction to Tools and Services](/Introduction%20to%20Tools%20and%20Services.md)**
    * **Open records**
    * **Topics of interest**
-   * **Bringing new work to the IETF** : [New]
+   * **Bringing new work to the IETF** : [_New_] Will use **[Guide to bringing new work to the IETF](/Guide%20to%20bringing%20new%20work%20to%20the%20IETF.md)**
+   * **Being effective in the IETF** : [_New_] Will use **[Guide to being effective in the IETF](/Guide%20to%20being%20effective%20in%20the%20IETF.md)**
    * **Women in the IETF (Systers)**
 * **Standards** :  This is very specifically for the Internet Standards work of the IETF and should not include things that are broader in scope.
    * **Internet standards process**
@@ -86,7 +86,7 @@ This is a complete reorganization of the menus to provide a new information arch
    * **Protocol registries (IANA)** : [Was IANA]
    * **External liaisons** : External liaison are with SDOs and related to the standards work. 
 * **Meetings** : While meetings exist solely to further the work of the IETF, this is such an often visited area of the site that it needs a top-level menu item.
-   * **Guide to IETF meetings**
+   * **Guide to IETF meetings** : Uses **[Guide to IETF Meetings](/Guide%20to%20IETF%20Meetings.md)**
    * **IETF XXX*** : Home page for upcoming IETF meeting.
    * **Upcoming meetings** 
    * **Past meetings**
