@@ -6,11 +6,11 @@
 * <a href="#work">The Work</a><br>
 * <a href="#meetings">IETF Meetings</a><br>
 
-# <a id="about">About the IETF</a> 
+## <a id="about">About the IETF</a> 
 
 The Internet Engineering Task Force (IETF), founded in 1986, is the premiere standards development organization (SDO) for the Internet. The IETF makes voluntary standards that are often adopted by Internet users, network operators, and equipment vendors, and it thus helps shape the trajectory of the development of the Internet. But in no way does the IETF control, or even patrol, the Internet.
 
-# <a id="mission">Mission</a> 
+## <a id="mission">Mission</a> 
 
 Quoting from [RFC 3935: A Mission Statement for the IETF](https://www.rfc-editor.org/info/rfc3935):
 
@@ -19,7 +19,7 @@ Quoting from [RFC 3935: A Mission Statement for the IETF](https://www.rfc-editor
 
 The Mission Statement further states that the Internet isn't value-neutral, and neither is the IETF.  The IETF wants the Internet to be useful for communities that share our commitment to openness and fairness. The IETF embraces technical concepts such as decentralized control, edge-user empowerment and sharing of resources, because those concepts resonate with the core values of the IETF community.  These concepts have little to do with the technology that's possible, and much to do with the technology that the IETF chooses to create.
 
-# <a id="participants">Participants</a>
+## <a id="participants">Participants</a>
 
 There is no membership in the IETF. Anyone can participate by signing up to a working group mailing list (more on that below), or registering for an IETF meeting. All IETF participants are considered volunteers and expected to participate as individuals, including those paid to participate.
 
@@ -31,7 +31,7 @@ IETF participants are regularly shown the [Note Well](https://www.ietf.org/about
 
 The IETF conducts its work solely in English.
 
-# <a id="principles">Principles</a>
+## <a id="principles">Principles</a>
 
 The IETF pursues its mission in adherence to the following cardinal principles:
 
@@ -45,7 +45,7 @@ The IETF pursues its mission in adherence to the following cardinal principles:
 
 **Protocol ownership** When the IETF takes ownership of a protocol or function, it accepts the responsibility for all aspects of the protocol, even though some aspects may rarely or never be seen on the Internet. Conversely, when the IETF is not responsible for a protocol or function, it does not attempt to exert control over it, even though it may at times touch or affect the Internet.
 
-# <a id="rfcs">RFCs</a>
+## <a id="rfcs">RFCs</a>
 
 The IETF publishes its technical documentation as RFCs, an acronym for their historical title *Requests for Comments*. RFCs are sequentially numbered, starting with RFC 1 published in 1969 (the RFC series predates the IETF). Each RFC has a status, generally one of 'Internet Standard', 'Proposed Standard', 'Best Current Practice' (or 'BCP' in short),  'Informational', 'Experimental' or 'Historic'.  Some statuses may change over time. RFCs are freely available.
 
@@ -55,25 +55,19 @@ Once an RFC is published, it is never revised. If the specification it describes
 
 The authoritative repository of RFCs is the [RFC Editor](https://www.rfc-editor.org) website.
 
-# <a id="work">The Work</a>
+## <a id="work">The Work</a>
 
-The work of the IETF is to produce technical documents that define how Internet technology works in detail, and can be operated and managed at scale.
+The work of the IETF is to produce technical documents (RFCs) that define how Internet technology works in detail, and can be operated and managed at scale.
 
 New work in the IETF begins with one or more participants producing a discussion document called an Internet-Draft (I-D) and then working to get that I-D adopted for further work. Anyone can write an Internet-Draft on any topic they believe is relevant to the IETF. There are different routes that an I-D can follow to be adopted, worked on and eventually become an RFC.
 
-The IETF has [policies](https://www.rfc-editor.org/rfc/rfc8179.html) about Intellectual Property Rights (IPR) that apply when submitting I-Ds and when making other contributions to the IETF, such as by participating on mailing lists. They are designed to ensure that IETF participants have as much information as possible about any IPR constraints on a technical proposal as early as possible in the development process.
+The IETF has [policies](https://www.rfc-editor.org/rfc/rfc8179.html) about Intellectual Property Rights (IPR) that are designed to ensure that IETF participants have as much information as possible about any IPR constraints on a technical proposal as early as possible in the development process.
 
-The vast majority of the IETF's work is done in its many [Working Groups](https://datatracker.ietf.org/wg/). A Working Group (WG) has its own mailing list with most of its interaction, and all of it official work, conducted via email. A WG also has a charter that states the scope of discussion for the WG and its goals. The WG's mailing list and any WG meetings are expected to focus only on what is in the charter. A WG is headed by several **WG chairs**.
+The majority of the IETF's work is done in [Working Groups](https://datatracker.ietf.org/wg/). A Working Group (WG) has its own mailing list with most of its interaction, and all of it official work, conducted on this list. The day to day work of WGs revolves around Internet-Drafts and over time the WG shapes them into RFCs. Decisions within WGs, as with the broader IETF, are taken by 'rough consensus' and not by voting. When a WG has finished with an I-D it goes through a process to ensure that it has approval from the appointed technical leadership and the consensus support of the IETF as a whole. 
 
-Working Groups are organized into several areas, Application and Real Time (art), General (gen), Internet (int), Operations and Management (ops), Routing (rtg), Security (sec), and Transport (tsv), with each area overseen by several **Area Directors** (AD).
+When an I-D has cleared all the hurdles to become an RFC it goes through a professional editorial process and is then assigned a number and published in a range of formats.
 
-The day to day work of WGs revolves around Internet-Drafts, those that have been proposed for adoption and those that have been adopted, and over time the WG shapes the latter into RFCs. Decisions within WGs, as with the broader IETF, are taken by 'rough consensus' and not by voting. One responsibility of the role of the WG chairs is to determine when rough consensus has been reached.  When a Working Group has finished with an I-D and is ready for it to become an RFC, the I-D goes through a process to ensure that it has approval from the appointed technical leadership and the consensus support of the IETF as a whole. 
-
-The other routes for an I-D to become an RFC are as the output of some of the leadership bodies, Area Directors can sponsor an I-D, and there is an independent submissions process. 
-
-When an I-D has cleared all the hurdles to become an RFC it goes through a professional editorial process and is then assigned a number, published in a range of formats, both human- and machine-readable, and deposited in libraries and archives.
-
-# <a id="meetings">IETF Meetings</a>
+## <a id="meetings">IETF Meetings</a>
 
 The IETF holds three week-long meetings a year with the primary goal of helping Working Groups get their tasks done, and promoting cross-WG discussions. In-person participation at IETF meetings now averages between 1000 and 1500 participants, with hundreds of additional participants joining remotely. These meetings rotate around the globe.
 

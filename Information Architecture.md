@@ -64,7 +64,7 @@ Search will stay as a separate function not associated with a menu, as it is not
 This is a complete reorganization of the menus to provide a new information architecture.
 ## Main Menu
 * **About**
-   * **Introduction to the IETF** :
+   * **Introduction to the IETF** : 
    * **Structure of the IETF** : [New] 
    * **Privacy and policies** : This could go under the Participate item as it's part of the "how".
    * **Administration** :

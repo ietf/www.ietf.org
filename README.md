@@ -19,14 +19,16 @@ The following have all been published. For now, that is a manual process whereby
 # Working content
 The following are all being worked on and may change or be reorganised at any point.
 
+* **Guide to bringing new work to the IETF**.  This is drafted and now going through review and update.
 * **Introduction to Tools and Services**. This is largely complete and just waiting for a change to the menu structure so that it can be published.
 * **Introduction to the structure of the IETF**.  This is largely complete but before it can be published, significant clearing up of the existing groups content is needed. May turn into a Guide.
-* **Introduction to the work of the IETF**. This is a collection of relevant text, drawn from multiple sources, still to be organised. This is likely to lead to one or more Guides to the work.
-* **Culture and Folklore of the IETF**. This is a collection of relevant text, drawn from multiple sources, still to be organised.
+* **Introduction to the work of the IETF**. This is laregly complete but it is not clear how this fits with other pages.
+* **Guide to being effective in the IETF**. This is a collection of relevant text drawn from multiple sources, still to be organised.
 * **RFCs**. This is a collection of relevant text, drawn from multiple sources, lots of it.  No decision has been made on how to pitch this - either as an introduction, or a comprehensive guide.  Some (much?) of this text may be better on the [RFC Editor site](https://www.rfc-editor.org)
 
-# Relationship to the Tao of the IETF
-The Tao has now evolved into the new set of documents above, which are in many cases largely drawn from Tao content and covering the same subject matter, though written differently.  
+# Relationship to previous content
+* **[Tao of the IETF](https://www.ietf.org/about/participate/tao/)**. The Tao has now evolved into the new set of documents above, which are in many cases largely drawn from Tao content and covering the same subject matter, though written differently.  
+* **[Informal Guide to the Standard Process](https://www.ietf.org/standards/process/informal/)**.  This will, if possible, be incorporated into the new content.
 
 # Content style guide
 

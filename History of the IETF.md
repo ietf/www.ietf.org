@@ -1,3 +1,7 @@
+
+
+**Text below this point is copied from source documents and is to be incorporated in the rewrite above or intentionally rejected**
+
 ### 2.1 Humble Beginnings
 
 The first IETF meeting was held in January 1986 at Linkabit in San Diego,
@@ -15,11 +19,3 @@ relationship.
 
 "RFC" originally stood for Request for Comments, and this name (used since 1969, before the IETF existed) expresses something important: the Internet is a constantly changing technical system, and any document that we write today may need to be updated tomorrow. One way to look at the IETF is as the group of people who work together to improve the technology of the Internet on a daily basis. 
 
-The collaborative process used to develop early RFCs remains an important part of the IETF spirit. 
-
-In many ways, the IETF runs on the beliefs of its participants. One of the
-founding beliefs is embodied in an early quote about the IETF from David
-Clark: "We reject kings, presidents and voting. We believe in rough consensus
-and running code." Another early quote that has become a commonly-held belief
-in the IETF comes from Jon Postel: "Be conservative in what you send and
-liberal in what you accept."

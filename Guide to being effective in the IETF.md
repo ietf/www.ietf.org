@@ -1,3 +1,9 @@
+
+
+
+**Text below this point is copied from source documents and is to be incorporated in the rewrite above or intentionally rejected**
+
+# From the Tao
 A good technique for newcomers is to decide on one or two (not more!) Working Goups (WGs) whose topics are interesting or relevant, and join their mailing lists.
 
 You can find the list of currently active WGs on the IETF Datatracker. Clicking on a group acronym (e.g., "tcpm") gets you to that group's list of documents. You will want to click on the "About" tab on that page to see the group description. From there, in the "mailing list" section in the table at the top, there is a link "to subscribe" to that groups email list. Follow the instructions there to sign up to the mailing list and you have effectively joined the working group.
@@ -13,8 +19,15 @@ The IETF is normally very welcoming to newcomers, and tolerance is the rule. The
 
 As well as producing RFCs, the IETF is a forum where network operators, hardware and software implementers, and researchers talk to each other to ensure that future protocols, standards and products will be even better. This is not the only technical forum for the Internet, of course. But it is the forum where the basic technical standards for Internet protocols are set and maintained. 
 
-The IETF does not standardize transmission hardware (we leave that to organizations like the IEEE and the ITU) and does not standardize specialized application layer protocols. For example, we leave HTML and XML standards to the World-Wide Web Consortium. But the IETF does standardize all the protocol layers in between, from IP itself up to general applications like email and HTTP.
-
 
 The IETF's official products are documents, published free of charge as RFCs. "RFC" originally stood for Request for Comments, and this name (used since 1969, before the IETF existed) expresses something important: the Internet is a constantly changing technical system, and any document that we write today may need to be updated tomorrow. One way to look at the IETF is as the group of people who work together to improve the technology of the Internet on a daily basis. 
 
+
+The collaborative process used to develop early RFCs remains an important part of the IETF spirit. 
+
+In many ways, the IETF runs on the beliefs of its participants. One of the
+founding beliefs is embodied in an early quote about the IETF from David
+Clark: "We reject kings, presidents and voting. We believe in rough consensus
+and running code." Another early quote that has become a commonly-held belief
+in the IETF comes from Jon Postel: "Be conservative in what you send and
+liberal in what you accept."
