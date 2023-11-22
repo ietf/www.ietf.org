@@ -25,6 +25,7 @@ The following are all being worked on and may change or be reorganised at any po
   * **[Introduction to the work of the IETF](/Introduction%20to%20the%20Work%20of%20the%20IETF.md)**. This is largely complete as an extended version of the text that appears in the **Introduction to the IETF** but it is not yet clear how this fits with other pages.
 * Guides:
   * **[Guide to bringing new work to the IETF](/Guide%20to%20bringing%20new%20work%20to%20the%20IETF.md)**.  This is drafted and now going through review and update.
+  * **[Guide to IETF Working Groups](/Guide%20to%20IETF%20Working%20Groups.md)**.  This is drafted and now going through review.
   * **[Guide to being effective in the IETF](/Guide%20to%20being%20effective%20in%20the%20IETF.md)**. This is a collection of relevant text drawn from multiple sources, still to be organised.
 * Other:
   * **RFCs**. This is a collection of relevant text, drawn from multiple sources, lots of it.  No decision has been made on how to pitch this - either as an introduction, or a comprehensive guide.  Some (much?) of this text may be better on the [RFC Editor site](https://www.rfc-editor.org)
