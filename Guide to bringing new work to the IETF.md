@@ -29,7 +29,7 @@ See the [Authors website](https://authors.ietf.org) to learn how to write and su
 ## Understanding rights and Intellectual Property around your idea
 When you submit an I-D you grant the IETF the necessary rights to work on the idea and this grant cannot be revoked later. You are free to patent your idea but you are required to disclose the existence of any such patent and patents will be taken into account when deciding whether or not a particular proposed work item should progress.  
 
-See [xxx] for more details on Intellectual Property Rights and the IETF.
+See our [Introduction to Intellectual Property Rights and the IETF]() for a basic introduction, and [BCP 78: Rights Contributors Provide to the IETF Trust](https://www.rfc-editor.org/rfc/rfc5378.html) and [BCP 79: Intellectual Property Rights in IETF Technology](https://www.rfc-editor.org/rfc/rfc8179.html) for the full details.
 
 ## What kind of outcome are you aiming for?
 There is no obligation to do anything with an Internet-Draft once you've submitted it.  Some people write Internet-Drafts without a specific outcome in mind.  Some just want to start a discussion and see where it goes, while some just want to record an idea and leave it to others to decide if they want to pick it up.  These are all valid uses of an Internet-Draft.
