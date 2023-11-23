@@ -9,3 +9,5 @@ Once you have a basic understanding of the IETF and  an idea how you would like 
 * **[Guide to IETF Meetings]()**. This is a full guide to IETF Meetings, ideally suited for those planning to attend a meeting for the first time, but also a useful reference for those who are still unfamiliar with certain aspects.
 
 * **[Guide to bringing new work to the IETF]()**. This is particulalry aimed at people who have a new idea or proposed work that they want to bring to the IETF.
+
+If you want to see the IETF in action, then see our [YouTube Channel](https://www.youtube.com/channel/UC8dtK9njBLdFnBahHFp0eZQ).
