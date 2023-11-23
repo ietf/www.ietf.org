@@ -1,11 +1,19 @@
-This is a basic introduction to Intellectual Property Rights (IPR) and the IETF. It is not legal advice. 
+A basic guide to the complex subject of Intellectual Property Rights (IPR) and the IETF. This is not legal advice. 
 
-## The right participants grant to the IETF
+* <a href="#ietf-rights">The rights participants grant to the IETF</a><br/>
+* <a href="#contributions">Contributions</a><br/>
+* <a href="#basic-grant">Basic grant of rights to the IETF Trust</a><br/>
+* <a href="#derivatives">Rights to derivative works</a><br/>
+* <a href="#licensing">IETF Trust licensing of Contributions</a><br/>
+* <a href="#other-assets">Licensing of other IETF Trust assets</a><br/>
+* <a href="#patents">Patents</a>
+
+## <a id="ietf-rights">The rights participants grant to the IETF</a>
 This section draws on [BCP 78: Rights Contributors Provide to the IETF Trust](https://www.rfc-editor.org/rfc/rfc5378.html), which should be consulted for further detail. 
 
 This section makes regular reference to the [IETF Trust](https://trustee.ietf.org), the separate legal entity that holds and grants rights on behalf of the IETF. 
 
-### Contributions
+### <a id="contributions">Contributions</a>
 Almost everything you write and share with the IETF is classified as a **Contribution** and therefore includes a basic grant of rights to the IETF Trust for that contribution.
 
 [Section 1 of BCP 78](https://www.rfc-editor.org/rfc/rfc5378.html#section-1) formally defines a **Contribution** as:
@@ -19,7 +27,7 @@ Almost everything you write and share with the IETF is classified as a **Contrib
 > * any IETF mailing list, including the IETF list itself, any working group or design team list, or any other list functioning under IETF auspices,
 > * the RFC Editor or the Internet-Drafts function [...].
 
-### The basic grant of rights to the IETF Trust
+### <a id="basic-grant">Basic grant of rights to the IETF Trust</a>
 As explained in [Section 5.3 of BCP 78](https://www.rfc-editor.org/rfc/rfc5378.html#section-5.3), when a contribution is made, the contributor grants the IETF Trust:
 
 > a perpetual, irrevocable, non-exclusive, royalty-free, world-wide, sublicensable right and license to the IETF Trust under all such copyrights and other rights in the Contribution:
@@ -32,7 +40,7 @@ and
 
 As noted, this grant of rights cannot be revoked.
 
-### Derivative works
+### <a id="derivatives">Rights to derivative works</a>
 By default, making a contribution grants to the IETF Trust the following rights regarding derivative works based on that contribution (bullet c. from above):
 
 > * c. to modify or prepare derivative works (in addition to translations) that are based on or incorporate all or part of the Contribution, and to copy, publish, display, and distribute such derivative works, or portions thereof [...]
@@ -43,8 +51,8 @@ When an Internet-Draft is submitted, this right to create derivative works can b
 
 It is also possible to specify a more liberal license for derivative works if the Internet-Draft is intended as an Independent Submission.  This too has significant implications for how an Internet-Draft may be used by the IETF.
 
-## Rights granted by the IETF Trust to IETF Contributions
-The IETF Trust grants specific rights to IETF contributions as set out in the [Trust Legal Provisions](https://trustee.ietf.org/documents/trust-legal-provisions/tlp-5/).  The [Trust FAQ](https://trustee.ietf.org/about/faq/) provides significant additional detail and context.
+## <a id="licensing">IETF Trust licensing of Contributions</a>
+The IETF Trust grants specific licenses to IETF contributions as set out in the [Trust Legal Provisions](https://trustee.ietf.org/documents/trust-legal-provisions/tlp-5/).  The [Trust FAQ](https://trustee.ietf.org/about/faq/) provides significant additional detail and context.
 
 The **Licenses For Use Outside the IETF Standards Process** only allow someone to copy and distribute IETF Contributions and IETF Documents in full and without modification; to produce translations into other languages and publish those in full and without modification; and to copy and distribute unmodified portions of IETF Contributions and IETF Documents with certain restrictions.
 
@@ -54,12 +62,12 @@ There are also [specific licenses](https://trustee.ietf.org/about/faq/#code) for
 
 Note that the IETF Trust retains copyright of the format of RFCs and Internet-Drafts.
 
-## Licensing of other IETF Trust assets
+## <a id="other-assets">Licensing of other IETF Trust assets</a>
 The IETF Trust claims [trademark rights](https://trustee.ietf.org/assets/trademarks-and-logos/) in the IETF logo and acronym and provides [licenses](https://trustee.ietf.org/assets/licenses/trademark-usage-guidelines/) and usage guidance for the [IETF logo and acronym](https://trustee.ietf.org/about/faq/#logo-acronym).
 
 The IETF also makes available a set of [Supporter Badges and Protocol Badges](https://www.ietf.org/badges/), with specific license terms.
 
-## Patents
+## <a id="patents">Patents</a>
 This sections draws on [BCP 79: Intellectual Property Rights in IETF Technology](https://www.rfc-editor.org/rfc/rfc8179.html), which should be consulted for further detail.
 
 The grants of rights covered above, do not affect rights to patented technology.

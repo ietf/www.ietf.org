@@ -1,3 +1,5 @@
+A basic guide to IETF Working Groups and how they operate. 
+
 * <a href="#introduction">Introduction</a>
 * <a href="#organization">Organization and management of Working Groups</a>
 * <a href="#consensus">Consensus decision making</a>
