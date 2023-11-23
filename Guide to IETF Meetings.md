@@ -1,5 +1,3 @@
-**Contents**
-
 * <a href="#about">About IETF Meetings</a><br>
 * <a href="#who">Who Participates</a><br>
 * <a href="#registering">Registering for the Meeting</a><br>
