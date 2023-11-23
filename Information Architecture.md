@@ -70,17 +70,19 @@ This is a complete reorganization of the menus to provide a new information arch
    * **Administration** :
    * **Contact us** :
 * **Participate** : This is where a participant finds all the resources relating to the "how" they participate (title could be "How to participate").  This should be both for those learning to partipate and those long-term participants who need a reference or guide to obscure corners of the IETF.
-   * **The Work of the IETF** : [_New_] Will use **[Introduction to the Work of the IETF](/Introduction%20to%20the%20Work%20of%20the%20IETF.md)**
+   * **Getting Started** : [_New_] Will use **[Getting Started](/Getting%20Started.md)**
    * **Mailing lists**
    * **Tools and sub-sites** : [_New_] Will use **[Introduction to Tools and Services](/Introduction%20to%20Tools%20and%20Services.md)**
    * **Open records**
    * **Topics of interest**
+   * **Intellectual Property and the IETF** : [_New_] Will use **[Guide to Intellectual Property Rights and the IETF](/Guide%20to%20Intellectual%20Property%20Rights%20and%20the%20IETF.md)**
    * **Bringing new work to the IETF** : [_New_] Will use **[Guide to bringing new work to the IETF](/Guide%20to%20bringing%20new%20work%20to%20the%20IETF.md)**
    * **Being effective in the IETF** : [_New_] Will use **[Guide to being effective in the IETF](/Guide%20to%20being%20effective%20in%20the%20IETF.md)**
    * **Women in the IETF (Systers)**
 * **Standards** :  This is very specifically for the Internet Standards work of the IETF and should not include things that are broader in scope.
-   * **Internet standards process**
-   * **Areas and working groups**
+   * **Internet standards process** : Needs a new, rewritten page.
+   * **Guide to IETF Working Groups** : [_New_] Will use **[Guide to IETF Working Groups](/Guide%20to%20IETF%20Working%20Groups.md)**
+   * **The role of the IESG** : [_New_]
    * **Birds of a feather**
    * **IPR declarations** : This might be sufficiently broader than the standards process that it belongs in Participate.
    * **Protocol registries (IANA)** : [Was IANA]
