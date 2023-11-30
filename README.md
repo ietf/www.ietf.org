@@ -1,4 +1,16 @@
-This repository contains the authoritative content of key pages from www.ietf.org in order to allow the community to send PRs for that content.  It also contains the documentation of the [information architecture](Information%20Architecture.md) of the site and a discussion on issues and proposed changes.
+This repository contains the authoritative content of key pages from www.ietf.org in order to allow the community to send PRs for that content.  It also contains the documentation of the [navigation](Information%20Architecture.md) of the site and a discussion on issues and proposed changes.
+
+# Audiences
+The www.ietf.org website is the public-facing "front door" for the IETF and aims to reflect and advance the position of the IETF as the premiere Internet standards organization that gathers a large open international community of network designers, operators, vendors, and researchers concerned with the evolution of the Internet architecture and the smooth operation of the Internet. This website aims to serve three audiences:
+
+**Active IETF Participants**
+Individuals who are already actively participating in the IETF: The redesigned IETF website should be a more effective tool for "getting the work of the IETF done".
+
+**New or Potential IETF Participants**
+Individuals who could participate in and contribute to the IETF: The revamped IETF website should help candidate participants become active contributors.
+
+**Non-participants looking to find out more about the IETF**
+These individuals include policy makers, managers of current or potential IETF participants, and C-level executives from the organizations of IETF participants: The revamped website should provide members of this audience a better understanding of the IETF's role as the Internet's premier standards organization.
 
 # Types of content
 These are the types of content that we are working on in this repository:
