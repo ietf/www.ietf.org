@@ -44,7 +44,9 @@ The WG chairs appoint who will be the authors or editors of Working Group I-Ds; 
 
 As a Working Group document is progressing, participants suggest changes on the Working Group's mailing list (or online if the document is maintained somewhere accessible). The document authors/editors are expected to follow the discussion and make changes when there is consensus so that the contents of the document accurately reflect Working Group decisions. When a document editor does not follow the consensus, the chairs will either be more forceful about getting changes that match the consensus or replace the document editor with someone more responsive. 
 
-When a Working Group document is ready to progress beyond the Working Group, the chairs will assign a "shepherd" to take over the final process. The role of the document shepherd is described in RFC 4858: Document Shepherding from Working Group Last Call to Publication. A chair who knows the history of the document within the Working Group, often does the shepherd write-up.
+When a Working Group document is ready to progress beyond the Working Group, the chairs will assign a "shepherd" to take over the final process. The role of the document shepherd is described in [RFC 4858: Document Shepherding from Working Group Last Call to Publication](https://www.rfc-editor.org/rfc/rfc4858.html). A chair who knows the history of the document within the Working Group, often does the shepherd write-up.
+
+[RFC 7221: Handling of Internet-Drafts by IETF Working Groups](https://www.rfc-editor.org/rfc/rfc7221.html) covers Working Group document processes in depth.
 
 ## <a id="sessions">Face-to-face sessions at IETF meetings</a>
 Most Working Groups meet face-to-face at IETF meetings (with excellent remote participation support) as these are generally highly productive sessions. It's the job of the chairs to request face-to-face sessions and set the agenda for those. If you want something discussed at the meeting, be sure to let the chairs know about it.

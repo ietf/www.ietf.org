@@ -63,30 +63,31 @@ Search will stay as a separate function not associated with a menu, as it is not
 # Proposed new IA
 This is a complete reorganization of the menus to provide a new information architecture.
 ## Main Menu
-* **About**
+* **About** : This tackles two things, one is one where people find out the very basics of the IETF, the second is where they find out about the non-technical organisational aspects of the IETF.
    * **Introduction to the IETF** : Uses **[Introduction to the IETF](/Introduction%20to%20the%20IETF.md)**
-   * **Structure of the IETF** : [_New_] Will use **[Introduction to the structure of the IETF](/Introduction%20to%20the%20structure%20of%20the%20IETF.md)**
-   * **Privacy and policies** : This could go under the Participate item as it's part of the "how".
    * **Administration** :
-   * **Contact us** :
-* **Participate** : This is where a participant finds all the resources relating to the "how" they participate (title could be "How to participate").  This should be both for those learning to partipate and those long-term participants who need a reference or guide to obscure corners of the IETF.
+   * **Governance** : [_New_] Explanation of the how the governance of the IETF works.
+   * **Liaisons to other SDOs** : This could possibly be under the "Standards Development" section.
+   * **Intellectual Property Management** : [_New_] Basic explanation of the IETF Trust with link to the Trust site for further details.
+   * **Structure of the IETF** : [_New_] Will use **[Introduction to the structure of the IETF](/Introduction%20to%20the%20structure%20of%20the%20IETF.md)**
+* **Participate** : This is where a participant finds all the resources relating to "how" they participate (title could be "How to participate").  This should be both for those learning to partipate and those long-term participants who need a reference or guide to skills or resources they have yet to require.
    * **Getting Started** : [_New_] Will use **[Getting Started](/Getting%20Started.md)**
-   * **Mailing lists**
+   * **Mailing lists** : The concept here is something people need to know about.  The current page however goes into a lot of details as well.
+   * **Working Documents** : Update and rename of current "Internet-Drafts" page.
    * **Tools and sub-sites** : [_New_] Will use **[Introduction to Tools and Services](/Introduction%20to%20Tools%20and%20Services.md)**
-   * **Open records**
-   * **Topics of interest**
+   * **Open records** : The concept here is something people need to know about.  The current page however goes into a lot of details as well.
    * **Intellectual Property and the IETF** : [_New_] Will use **[Guide to Intellectual Property Rights and the IETF](/Guide%20to%20Intellectual%20Property%20Rights%20and%20the%20IETF.md)**
    * **Bringing new work to the IETF** : [_New_] Will use **[Guide to bringing new work to the IETF](/Guide%20to%20bringing%20new%20work%20to%20the%20IETF.md)**
    * **Being effective in the IETF** : [_New_] Will use **[Guide to being effective in the IETF](/Guide%20to%20being%20effective%20in%20the%20IETF.md)**
    * **Women in the IETF (Systers)**
-* **Standards** :  This is very specifically for the Internet Standards work of the IETF and should not include things that are broader in scope.
+* **Standards Development** :  This is broader than the title suggests, covering everything related to the 'technical work" of the IETF.
    * **Internet standards process** : Needs a new, rewritten page.
    * **Guide to IETF Working Groups** : [_New_] Will use **[Guide to IETF Working Groups](/Guide%20to%20IETF%20Working%20Groups.md)**
-   * **The role of the IESG** : [_New_]
+   * **Areas and the IESG** : [_New_]  
    * **Birds of a feather**
    * **IPR declarations** : This might be sufficiently broader than the standards process that it belongs in Participate.
    * **Protocol registries (IANA)** : [Was IANA]
-   * **External liaisons** : External liaison are with SDOs and related to the standards work. 
+   * **Directorates and Teams** : [_New_]
 * **Meetings** : While meetings exist solely to further the work of the IETF, this is such an often visited area of the site that it needs a top-level menu item.
    * **Guide to IETF meetings** : Uses **[Guide to IETF Meetings](/Guide%20to%20IETF%20Meetings.md)**
    * **IETF XXX*** : Home page for upcoming IETF meeting.
@@ -97,6 +98,7 @@ This is a complete reorganization of the menus to provide a new information arch
    * **Side meetings** : Still includes details about private meetings, but that does not need to be in the title as people recognise "side" as meaning all non-agenda sessions.
    * **Meeting planning**
    * **Hackathons**
+* **Technology, Topics and Industries** : This is where the current "Topics of Interest" goes.  A page under this covers either a specific technology, topic or industry.
 * **Support Us**
    * **Why we need your support**
    * **Financial supporters**
