@@ -20,9 +20,9 @@ All activity in a Working Group is covered by the [Note Well](https://www.ietf.o
 The full list of active Working Groups is on [Datatracker](https://datatracker.ietf.org/wg/). 
 
 ## <a id="organization">Organization and management of Working Groups</a>
-Each Working Group has a charter, approved by the IESG and IAB, that describes the specific problem or deliverables (a guideline, a standards specification, etc) it has been formed to address. Charters state the scope of work for the Working Group, and lay out goals and milestones that show how this work will be completed. Some  charters specify what the Working Group will not do,
+Each Working Group has a charter, approved by the IESG, that describes the specific problems or deliverables (a guideline, a standards specification, etc) it has been formed to address. Charters state the scope of work for the Working Group, and lay out goals and milestones that show how this work will be completed. Some charters also specify what the Working Group will not do,
 
-Each Working Group is chartered within an Area and has a responsible Area Director who appoints one or two (or, rarely, three) chairs to manage the Working Group.
+Each Working Group is chartered within an Area and has a responsible Area Director who appoints one, two, or sometimes three chairs to manage the Working Group.
 
 The chairs are responsible for the quality of Working Group output. They must keep the Working Group productive and making progress on its drafts, by manage discussion and by scheduling meetings when appropriate. The chairs must also manage the formal processes around Working Group documents and ensure the Working Group complies with IETF policies. Chairs can appoint a Working Group Secretary to assist them.
 
