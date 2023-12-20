@@ -1,9 +1,9 @@
 A basic guide to the complex subject of Intellectual Property Rights (IPR) and the IETF. This is not legal advice. 
 
 * <a href="#ietfrights">The rights participants grant to the IETF</a><br/>
-* <a href="#contributions">Contributions</a><br/>
-* <a href="#basicgrant">Basic grant of rights to the IETF Trust</a><br/>
-* <a href="#derivatives">Rights to derivative works</a><br/>
+    * <a href="#contributions">Contributions</a><br/>
+    * <a href="#basicgrant">Basic grant of rights to the IETF Trust</a><br/>
+    * <a href="#derivatives">Rights to derivative works</a><br/>
 * <a href="#licensing">IETF Trust licensing of Contributions</a><br/>
 * <a href="#otherassets">Licensing of other IETF Trust assets</a><br/>
 * <a href="#patents">Patents</a>
@@ -18,36 +18,36 @@ Almost everything you write and share with the IETF is classified as a **Contrib
 
 [Section 1 of BCP 78](https://www.rfc-editor.org/rfc/rfc5378.html#section-1) formally defines a **Contribution** as:
 
-> any submission to the IETF intended by the Contributor for publication as all or part of an Internet-Draft or RFC [...] and any statement made within the context of an IETF activity.  Such statements include oral statements in IETF sessions as well as written and electronic communications, made at any time or place, that are addressed to:
-> * the IETF plenary session,
-> * any IETF working group or portion thereof,
-> * any Birds of a Feather (BOF) session,
-> * the IESG, or any member thereof on behalf of the IESG,
-> * the IAB, or any member thereof on behalf of the IAB,
-> * any IETF mailing list, including the IETF list itself, any working group or design team list, or any other list functioning under IETF auspices,
-> * the RFC Editor or the Internet-Drafts function [...].
+`any submission to the IETF intended by the Contributor for publication as all or part of an Internet-Draft or RFC [...] and any statement made within the context of an IETF activity.  Such statements include oral statements in IETF sessions as well as written and electronic communications, made at any time or place, that are addressed to:`<br/>
+` *  the IETF plenary session,`<br/>
+` *  any IETF working group or portion thereof,`<br/>
+`* any Birds of a Feather (BOF) session,`<br/>
+`* the IESG, or any member thereof on behalf of the IESG,`<br/>
+`* the IAB, or any member thereof on behalf of the IAB,`<br/>
+`* any IETF mailing list, including the IETF list itself, any working group or design team list, or any other list functioning under IETF auspices,`<br/>
+`* the RFC Editor or the Internet-Drafts function [...].`
 
 ### <a id="basicgrant">Basic grant of rights to the IETF Trust</a>
 As explained in [Section 5.3 of BCP 78](https://www.rfc-editor.org/rfc/rfc5378.html#section-5.3), when a contribution is made, the contributor grants the following to the IETF Trust:
 
-> a perpetual, irrevocable, non-exclusive, royalty-free, world-wide, sublicensable right and license to the IETF Trust under all such copyrights and other rights in the Contribution:
-> * a. to copy, publish, display, and distribute the Contribution, in whole or in part,
-> * b. to prepare translations of the Contribution into languages other than English, in whole or in part, and to copy, publish, display, and distribute such translations or portions thereof,
+`a perpetual, irrevocable, non-exclusive, royalty-free, world-wide, sublicensable right and license to the IETF Trust under all such copyrights and other rights in the Contribution:`<br/>
+`a. to copy, publish, display, and distribute the Contribution, in whole or in part,`<br/>
+`b. to prepare translations of the Contribution into languages other than English, in whole or in part, and to copy, publish, display, and distribute such translations or portions thereof,`
 
 and
 
-> * d. to reproduce any trademarks, service marks, or trade names which are included in the Contribution solely in connection with the reproduction, distribution, or publication of the Contribution and derivative works thereof as permitted by this Section 5.3, provided that when reproducing Contributions, trademark and service mark identifiers used in the Contribution, including TM and (R), will be preserved.
+`d. to reproduce any trademarks, service marks, or trade names which are included in the Contribution solely in connection with the reproduction, distribution, or publication of the Contribution and derivative works thereof as permitted by this Section 5.3, provided that when reproducing Contributions, trademark and service mark identifiers used in the Contribution, including TM and (R), will be preserved.`
 
 As noted, this grant of rights cannot be revoked.
 
 ### <a id="derivatives">Rights to derivative works</a>
 By default, making a contribution grants to the IETF Trust the following rights regarding derivative works based on that contribution (bullet c. from above):
 
-> * c. to modify or prepare derivative works (in addition to translations) that are based on or incorporate all or part of the Contribution, and to copy, publish, display, and distribute such derivative works, or portions thereof [...]
+`c. to modify or prepare derivative works (in addition to translations) that are based on or incorporate all or part of the Contribution, and to copy, publish, display, and distribute such derivative works, or portions thereof [...]`
 
 When an Internet-Draft is submitted, this right to create derivative works can be limited or explicitly disallowed, by the incorporation of a specific notice in the I-D.  Doing this has significant implications for how an Internet-Draft may be used by the IETF, as explained in [Section 3.3 of BCP 78](https://www.rfc-editor.org/rfc/rfc5378.html#section-3.3):
 
-> The right to produce derivative works, in addition to translations, is required for all IETF Standards Track documents and for most IETF non-Standards Track documents.  There are two exceptions to this requirement: documents describing proprietary technologies and documents that are republications of the work of other standards organizations.
+`The right to produce derivative works, in addition to translations, is required for all IETF Standards Track documents and for most IETF non-Standards Track documents.  There are two exceptions to this requirement: documents describing proprietary technologies and documents that are republications of the work of other standards organizations.`
 
 It is also possible to specify a more liberal license for derivative works if the Internet-Draft is intended as an Independent Submission.  This too has significant implications for how an Internet-Draft may be used by the IETF.
 
@@ -76,4 +76,4 @@ During the standards process any IETF contribution covered by patents or patent 
 
 [Section 7 of BCP 79](https://www.rfc-editor.org/rfc/rfc8179.html#section-7) explains in general how IPR claims may impact the standards process:
 
-> In general, IETF working groups prefer technologies with no known IPR claims or, for technologies with claims against them, an offer of royalty-free licensing.  However, to solve a given technical problem, IETF working groups have the discretion to adopt a technology as to which IPR claims have been made if they feel that this technology is superior enough to alternatives with fewer IPR claims or free licensing to outweigh the potential cost of the licenses.
+`In general, IETF working groups prefer technologies with no known IPR claims or, for technologies with claims against them, an offer of royalty-free licensing.  However, to solve a given technical problem, IETF working groups have the discretion to adopt a technology as to which IPR claims have been made if they feel that this technology is superior enough to alternatives with fewer IPR claims or free licensing to outweigh the potential cost of the licenses.`
