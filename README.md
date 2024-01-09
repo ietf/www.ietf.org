@@ -18,11 +18,11 @@ These are the types of content that we are working on in this repository:
 | Type | Description | Audience |
 |------|-------------|----------|
 | Summary | A very short piece (generally no more than 1500 words) that tells people that the subject exists | General public |
-| Introduction | Several paragraphs that very briefly explains the key points about a subject | Potential and new participants| 
+| Introduction | Several paragraphs that very briefly explain the key points about a subject | Potential and new participants| 
 | Guide | Detailed piece that provides the details of a subject but does not include any arcana or details that are only relevant to a small subset of readers | New and established participants|
 
 # Published content
-The following have all been published. For now, that is a manual process whereby the content is pasted into the website CMS, but it is hoped that this will be automated in future.  Unless stated otherwise, you are free to submit a PR on any of this content.
+The following have all been published. For now, that is a manual process whereby the content is pasted into the website CMS, but it is hoped that this will be automated in the future.  Unless stated otherwise, you are free to submit a PR on any of this content.
 
 * **[Introduction to the IETF](/Introduction%20to%20the%20IETF.md)**. This is published as a website [page](https://www.ietf.org/about/introduction/).  By necessity, this page has content in it that is repeated elsewhere, but excessive detail should be avoided.
 * **[Guide to IETF Meetings](/Guide%20to%20IETF%20Meetings.md)**. This is a published as a website [ page](https://www.ietf.org/how/meetings/introduction-to-ietf-meetings/).  It is written largely for those new to IETF meetings and is intentionally a long read.  Some elements are intentionally just brief references to other pages (e.g. Meeting Technology, Support for New Participants).
@@ -33,7 +33,7 @@ The following are all being worked on and may change or be reorganised at any po
 
 * Introductions:
   * **[Introduction to Tools and Services](/Introduction%20to%20Tools%20and%20Services.md)**. This is largely complete and just waiting for a change to the menu structure so that it can be published.
-  * **[Introduction to the structure of the IETF](/Introduction%20to%20the%20structure%20of%20the%20IETF.md)**.  This is largely complete but before it can be published, significant clearing up of the existing groups content is needed.
+  * **[Introduction to the structure of the IETF](/Introduction%20to%20the%20structure%20of%20the%20IETF.md)**.  This is largely complete, but before it can be published, significant clearing up of the existing groups' content is needed.
   * **[Introduction to the work of the IETF](/Introduction%20to%20the%20Work%20of%20the%20IETF.md)**. This is largely complete as an extended version of the text that appears in the **Introduction to the IETF** but it is not yet clear how this fits with other pages.
 * Guides:
   * **[Guide to bringing new work to the IETF](/Guide%20to%20bringing%20new%20work%20to%20the%20IETF.md)**.  This is drafted and now going through review and update.
@@ -56,8 +56,8 @@ The following general guidance is applied to this content.
 
 2.  While some of this content is aimed specifically at those new to the IETF, avoid constantly declaring that as it actually puts people off by labelling them and boxing them into a pre-defined role.  Better just to tell people the facts and let them decide how they fit in.
 
-3.  Wherever possible say "this is what X is" rather than the old Tao approach of "you might think X is … but no it’s actually … !!".
+3.  Wherever possible, say "this is what X is," rather than the old Tao approach of "you might think X is …, but no it’s actually … !!".
 
-4.  Move almost all of the side remarks, insights into culture, memes, etc into the separate document on being effective, while still trying to capture the intent where needed.  It’s not that they’re without value, it’s just that they have a time and a place where they are most effective and that is when someone is thinkibng about how they participate, not when they are leanring the facts of how things work.
+4.  Move almost all of the side remarks, insights into culture, memes, etc. into the separate document on being effective, while still trying to capture the intent where needed.  It’s not that they’re without value, it’s just that they have a time and a place where they are most effective, and that is when someone is thinking about how they participate, not when they are learning the facts of how things work.
 
 5.  Limit the number of external references.  There’s a balance between referencing sources and providing additional information, and distracting people from the current document. 
