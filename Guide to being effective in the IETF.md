@@ -7,21 +7,23 @@
    * <a href="#use-threads">Use threads and useful subject lines</a><br>
    * <a href="#reply-below">Reply to individual points below quoted text</a><br>
    * <a href="#rich-text">Avoid rich text formatting</a><br>
-   * <a href="#client-help">Help with specific mail clients</a><br>
+   * <a href="#client-help">Help for specific mail clients</a><br>
 * <a href="#send-text">Send text</a><br>
 * <a href="#polite-engineer">Talk and listen like a polite engineer</a><br>
 
-# <a id="introduction">Introduction</a>
+<br>
+
+## <a id="introduction">Introduction</a>
 Participating in the IETF and seeing your views listened to and your contributions actively shaping the work, is a very rewarding experience.  Getting to that point means acquiring both knowledge of IETF processes and a small set of skills in IETF participation. What follows is a guide to that set of skills, a guide to being effective in the IETF.
 
-# <a id="many-people">It takes many people with many different views to build a resilient protocol</a>
+## <a id="many-people">It takes many people with many different views to build a resilient protocol</a>
 The IETF has, for decades, successfully produced protocols that are resilient and performant at Internet scale and the core reason for this is because each protocol has been built by the combined efforts of many people with many different views scrutinising every aspect of the design. To be effective in the IETF it is essential that you recognise this and embrace that way of working. This means:
 * Do not try to "own" any idea, however small.  Ideas brought to the IETF do not belong to individuals and may change shape beyond all recognition from conception to completion. 
 * When somebody raises a point that you do not think is relevant, or do not think is important enough to address, try hard to see if you can adjust your own desired outcome to incorporate this point. Your aim should not be to get the outcome that you want, but an outcome that you can live with.  This is key to reaching consensus. 
 
 The other side of this, is that any IETF participant is free to comment on any idea that is proposed.  You do not need an invitation.
 
-# <a id="asynchronous-process">Participation is mainly slow and asynchronous not realtime</a>
+## <a id="asynchronous-process">Participation is mainly slow and asynchronous not realtime</a>
 The IETF is a global organisation and therefore cannot operate in realtime with its participants spread across so many different timezones. Added to this, most IETF participants are volunteers with other responsibilities to balance. This can lead to a latency of days between messages.
 
 With that in mind, it is important not to fall into the trap of working as if the IETF is realtime:
@@ -32,7 +34,7 @@ WG sessions at IETF meetings (and interim meetings) are a crucial way of short-c
 
 All WG sessions at IETF meeting (or interim meetings) have public video archives and it is often worth watching those to get up to speed on a particular WG.
 
-# <a id="read-thoroughly">Read the relevant Internet-Drafts, related RFCs and archives</a>
+## <a id="read-thoroughly">Read the relevant Internet-Drafts, related RFCs and archives</a>
 Internet-Drafts (I-Ds) are the core mechanism for IETF participants to share ideas. These often refer to RFCs or other I-Ds by way of background. If you want to fully participate in any discussion in the IETF then you will need to read the I-Ds related to that discussion and any RFCs or other documents that they refer to. Each WG has a page that lists the finished RFCs and adopted I-Ds, and unadopted relevant I-Ds are notified to the mailing list by the authors. 
 
 All IETF mailing lists have a [public archive](https://mailarchive.ietf.org) and there are many times when it is important to read the list archive in order to participate effectively. These include:
@@ -42,24 +44,24 @@ All IETF mailing lists have a [public archive](https://mailarchive.ietf.org) and
 
 Altogether, this can mean a lot of reading, but if you do not do it then you will not have the necessary context to engage in the discussion. There is also the risk that this becomes obvious and others then choose not to listen to you.
 
-# <a id="email">Use email in a specific, structured way</a>
+## <a id="email">Use email in a specific, structured way</a>
 Email is a tool that can be used in many different ways, and in the IETF there is a particular way that is the most productive and the most effective. This is not about netiquette or some old-fashioned idea of how email should be used - this is a specific method that uses email very similarly to issue trackers (e.g. GitHub) and thereby makes it as easy as possible for other readers to follow and later reference.
 
 Remember, nobody is required to read your emails, not even document authors or WG chairs, and reading email is time-consuming and takes mental effort.  The more you can do to structure your emails to mimimise the time and effort required by other readers, the more effective your emails will be.
 
-## <a id="keep-it-short">Keep it short and to the point</a>
+### <a id="keep-it-short">Keep it short and to the point</a>
 If you write an incredibly long email without breaking it up with headings and other structure then people will either skim read it and miss important nuances, just read the first few lines, or not even read it at all.  
 
 There are times when you might have good reason to write a very long email, in which case use structure to help people read them - headings, bullets, introductions, summaries, etc. Alternatively, consider if this is better as an Internet-Draft.  
 
-## <a id="use-threads">Use threads and useful subject lines</a>
+### <a id="use-threads">Use threads and useful subject lines</a>
 A sequence of emails, replies to replies, is called a thread and most email clients arrange emails into threads to make them easier to read.  The mailing list archive, displays all messages as threads
 
 When you have something new to say, start a new thread with a new email that is not a reply to another email. You do not need any permission to do so. Seperate threads are much easier for people to read and refer to later. 
 
 If your reply to an existing thread is moving to a different topic from the subject line, then change the subject line to indicate this. It is not rude or presumptuous to change the subject line of a thread, it is a necessary discipline so that readers know what the emails are about.
 
-## <a id="reply-below">Reply to individual points below quoted text</a>
+### <a id="reply-below">Reply to individual points below quoted text</a>
 It is common practice in business email for people to press reply and write something at the top, keeping a copy of every previous reply in the message below. In the IETF context this is a real problem for these reasons: 
 1. It makes it much more difficult for people to follow a complex discussion with multiple points being made by multiple people.
 2. Some participants use email clients that do not hide quoted text very well and so this makes it much harder for them to follow the discussion.
@@ -89,20 +91,20 @@ If you want to say something about reasons A and C you should reply as follows (
 
 It is fine to reply to multiple messages in one response, if the points they have made are sufficiently related that this is needed. All you need do is quote one message and add your reply, and then quote the next message and reply.
 
-## <a id="rich-text">Avoid rich text formatting</a>
+### <a id="rich-text">Avoid rich text formatting</a>
 Using rich text formatting attributes, such as colour or italic, to highlight specific text (e.g. "replies in red") is insensitive to those with vision disabilities and all of that context is lost in the archives as those are only plain text. If possible, it is better to avoid rich text altogether as the message you think you are sending may not be what is received.
 
-## <a id="client-help">Help with specific mail clients</a>
+### <a id="client-help">Help for specific mail clients</a>
 For more information on using specific email clients (Apple mail Outlook, etc) see the wiki page [Link to wiki pages]().
 
-# <a id="send-text">Send text</a>
+## <a id="send-text">Send text</a>
 The IETF works on proposed text and proposed changes to that text. It is so much better to say "I don't like this text because of X, and here is some alternative text that fixes that" because this turns your point into something actionable.
 
 There are two other major benefit from sending text. The first is that it will help you focus your thoughts into clear and precise language that says what you want it to say. The second is that it helps people understand what you are saying, particularly because of the focus it brings. Every IETF participant will have come across a situation where a point only becomes clear when someone turns it into proposed text.
 
 The importance of sending text cannot be overstated - this is possibly the most common reason that people feel rejected, because they make a good suggestion but don't propose text and nobody else does it for them. There are some circumstances when WGs expect document editors/authors to produce text to cover the points raised, but this is imperfect and can be missed, or the text may not be as you expect it.
 
-# <a id="polite-engineer">Talk and listen like a polite engineer</a>
+## <a id="polite-engineer">Talk and listen like a polite engineer</a>
 The IETF is an engineering organisation, where participants write/talk directly, often without regard for any niceties, and read/listen to what others say without looking for any niceties or hidden meaning. Provided this is within the IETF's clear expectations for participant behaviour, this should not be mis-interpreted as rudeness or impatience. 'Directness' can never be an excuse for inappropriate behaviour.
 
 Of course, politeness helps with participant interaction and is positively encouraged.
