@@ -4,14 +4,14 @@
 * <a href="#read-background">Read the relevant Internet-Drafts, related RFCs and archives</a><br>
 * <a href="#email">Use email in a specific, structured way</a><br>
    * <a href="#keep-it-short">Keep it short and to the point</a><br>
-   * <a href="#use-threads">Use threads and useful subject lines</a>
-   * <a href="#reply-below">Reply to individual points below quoted text</a>
-   * <a href="#rich-text">Avoid rich text formatting</a>
-   * <a href="#client-help">Help with specific mail clients</a>
+   * <a href="#use-threads">Use threads and useful subject lines</a><br>
+   * <a href="#reply-below">Reply to individual points below quoted text</a><br>
+   * <a href="#rich-text">Avoid rich text formatting</a><br>
+   * <a href="#client-help">Help with specific mail clients</a><br>
 * <a href="#send-text">Send text</a><br>
 * <a href="#polite-engineer">Talk and listen like a polite engineer</a><br>
 
-# <a id="introduction">Introduction<a/>
+# <a id="introduction">Introduction</a>
 Participating in the IETF and seeing your views listened to and your contributions actively shaping the work, is a very rewarding experience.  Getting to that point means acquiring both knowledge of IETF processes and a small set of skills in IETF participation. What follows is a guide to that set of skills, a guide to being effective in the IETF.
 
 # <a id="many-people">It takes many people with many different views to build a resilient protocol</a>
