@@ -50,11 +50,13 @@ If your proposed work is not in scope for an existing working group then there a
 
 1. Form a community of of interested participants.  This is often done by requesting a non-working group [mailing list](https://www.ietf.org/how/lists/) where people with an interest can come together to discuss the idea. [RFC6771] "Considerations for Having a Successful "Bar BOF" Side Meeting" provides advice on building this community of interest.
 
-2. Take your I-D to [ALLDISPATCH](https://datatracker.ietf.org/group/alldispatch/about/) for a community discussion on the next steps.  ALLDISPATCH is a special group that discusses new work and provides guidance to the IESG on how the I-D should proceed.
+2. Take your I-D to [ALLDISPATCH](https://datatracker.ietf.org/group/alldispatch/about/) for a community discussion on the next steps.  ALLDISPATCH is a special group that discusses new work and provides guidance to the IESG on how the I-D should proceed. The ALLDISPATCH process is limited and focused, and tends to be the best choice for I-Ds that propose a specific technology. 
 
-3. Request a [BOF](https://www.ietf.org/process/bofs/) (Birds Of a Feather), which is a pathway to created a new WG. This is normally only done when you know there is good community of interest and you have a clear idea of what the BOF will consider.
+3. Request a [BOF](https://www.ietf.org/process/bofs/) (Birds Of a Feather), which is a pathway to created a new WG. This is normally only done when you know there is good community of interest and you have a clear idea of what the BOF will consider.  A BOF is more suited to an I-D that outlines a problem as most BOFs are held in order to get support for an eventual Working Group, not to get support for a particular document.
 
-An advantage of using ALLDISPATCH compared to a BoF is that the discussion is more limited and focused, and tends to be the best choice for I-Ds that propose a specific technology. A BOF is more suited to an I-D that outlines a problem as most BOFs are held in order to get support for an eventual Working Group, not to get support for a particular document.
+4. An Area Director may agree to directly sponsor an I-D though this is normally only after the I-D has been through the ALLDISPATCH process and that has recommended that it be AD-sponsored.
+
+5. The final option is to request publication on the [Independent Stream](https://www.rfc-editor.org/about/independent/). This is only suitable for documents that are outside the official processes of the IETF, IAB, and IRTF but are relevant to the Internet community and achieve reasonable levels of technical and editorial quality.
 
 ## <a id="next-steps">Next steps</a>
 Taking an idea from initial Internet-Draft is a long process and it requires considerable skill and effort in listening, finding creative solutions, working with others and writing clearly.
