@@ -7,6 +7,7 @@ A basic guide to the complex subject of Intellectual Property Rights (IPR) and t
 * <a href="#licensing">IETF Trust licensing of Contributions</a><br/>
 * <a href="#otherassets">Licensing of other IETF Trust assets</a><br/>
 * <a href="#patents">Patents</a>
+* <a href="#help">Getting help</a>
 
 ## <a id="ietfrights">The rights participants grant to the IETF</a>
 This section draws on [BCP 78: Rights Contributors Provide to the IETF Trust](https://www.rfc-editor.org/rfc/rfc5378.html), which should be consulted for further detail. 
@@ -77,3 +78,14 @@ During the standards process any IETF contribution covered by patents or patent 
 [Section 7 of BCP 79](https://www.rfc-editor.org/rfc/rfc8179.html#section-7) explains in general how IPR claims may impact the standards process:
 
 `In general, IETF working groups prefer technologies with no known IPR claims or, for technologies with claims against them, an offer of royalty-free licensing.  However, to solve a given technical problem, IETF working groups have the discretion to adopt a technology as to which IPR claims have been made if they feel that this technology is superior enough to alternatives with fewer IPR claims or free licensing to outweigh the potential cost of the licenses.`
+
+Despite precautions, sometimes patents appear after a standard has been established and there is little the IETF can do about that.
+
+If the authors of an Internet-Draft knows of a patent that applies to the technology being written about, that patent should not be listed in the document. This is because RFCs never change after they are published, while knowledge of IPR can change at any time. Therefore, an IPR list in an RFC could be incomplete and mislead the reader. BCP 79 provides specific text that should be added to RFCs where the author knows of IPR issues.
+
+## <a id="help">Getting help</a>
+No part of the IETF can provide legal advice to an IETF participant but there are a number of avenues to seek clarification around IETF processes.
+
+Any questions or concerns regarding specific IPR or a specific document should go to the relevant WG Chair(s) or the responsible AD(s). They can, if necessary, call on IETF Counsel to assist them in responding and the AD can escalate to the IESG if required.
+
+More general questions about IPR and licensing should be put to the IETF Trust. either directly or on the [tlp-interest](https://mailarchive.ietf.org/arch/browse/tlp-interest/) mailing list.
