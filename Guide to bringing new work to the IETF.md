@@ -26,19 +26,19 @@ If you want to bring an idea to the IETF then you should to write it up as an In
 
 See the [Authors website](https://authors.ietf.org) to learn how to write and submit Internet-Drafts.
 
-## <a id="rights">Understanding rights and Intellectual Property around your idea</a>
+## <a id="rights">Understanding rights and Intellectual Property</a>
 When you submit an I-D you grant the IETF the necessary rights to work on the idea and this grant cannot be revoked later. You are free to patent your idea but you are required to disclose the existence of any such patent and patents will be taken into account when deciding whether or not a particular proposed work item should progress.  
 
 See our [Guide to Intellectual Property Rights and the IETF](https://www.ietf.org/process/ipr/) for a basic introduction, and references to the relevant BCPs.
 
-## <a id="aims">What kind of outcome are you aiming for?</a>
+## <a id="aims">Deciding what outcome you are aiming for</a>
 There is no obligation to do anything with an Internet-Draft once you've submitted it. Some people write Internet-Drafts without a specific outcome in mind. Some just want to start a discussion and see where it goes, while some just want to record an idea and leave it to others to decide if they want to pick it up. These are all valid uses of an Internet-Draft.
 
 If you want your idea to end up as an Internet Standard RFC then it will need to follow the [IETF Standards Development Process](https://www.ietf.org/process/process/) and your next step should be to find the best part of the IETF for your idea, as explained below.
 
-If you just want your idea published as an Informational RFC with no chance of becoming an Internet standard then you could consider the Independent Submission Stream.  Also, IETF stream details.
+If you just want your idea published as an Informational RFC with no chance of becoming an Internet standard then you could consider the [Independent Submission Stream](https://www.rfc-editor.org/about/independent/).
 
-## <a id="appropriate-part">Finding the most appropriate part of the IETF to share your I-D</a>
+## <a id="appropriate-part">Finding the most appropriate WG to share your I-D</a>
 The IETF has over one hundred Working Groups (WG), organised into several areas.  It may take some time, but you should read through the list of WGs to see if one of those covers the subject area of your proposed work item and if the charter of the WG covers the specific problem/solution described in your Internet-Draft.
 
 When you have identified the appropriate WG for your proposed work, read our [Guide to IETF Working Groups](https://www.ietf.org/process/wgs/) to understand how to introduce this to the WG.

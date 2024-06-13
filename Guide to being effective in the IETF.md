@@ -3,7 +3,7 @@
 * <a href="#asynchronous-process">Participation is mainly slow and asynchronous not realtime</a><br>
 * <a href="#meetings">Meetings support, not replace, the mailing list process</a><br>
 * <a href="#finding-the-context">The context is in the relevant Internet-Drafts, related RFCs and lists archives</a><br>
-* <a href="#using-email">Using email in a specific, structured way</a><br>
+* <a href="#using-email">Using email for a structured discussion</a><br>
    * <a href="#short">Short and to-the-point</a><br>
    * <a href="#threads">Threads and useful subject lines</a><br>
    * <a href="#replying-below">Replying below quoted text</a><br>
@@ -14,7 +14,7 @@
 <br>
 
 ## <a id="introduction">Introduction</a>
-Participating in the IETF and having your views listened to and your contributions actively shaping the work is a very rewarding experience.  Getting to that point means acquiring both knowledge of IETF processes and a small set of skills in IETF participation. What follows is a guide to that set of skills, a guide to being effective in the IETF.
+Participating in the IETF and having your views listened to and your contributions actively shaping the work is a very rewarding experience.  Getting to that point means acquiring knowledge of IETF processes and adopting a small set of helpful practices. What follows is a guide to that set of practices, a guide to being effective in the IETF.
 
 ## <a id="many-people">It takes many people with many different views to build a resilient protocol</a>
 The IETF has, for decades, successfully produced protocols that are resilient and performant at Internet scale and the core reason for this is because each protocol has been built by the combined efforts of many people with many different views scrutinising every aspect of the design until consensus is reached. Ideas brought to the IETF do not belong to individuals and may change shape beyond all recognition from conception to completion. To be effective in the IETF it is essential that you recognise this and embrace that way of working. 
@@ -48,7 +48,7 @@ All IETF mailing lists have a [public archive](https://mailarchive.ietf.org) and
 
 Altogether, this can mean a lot of reading, but if you do not do it then you are unlikely to have the necessary context to engage in the discussion and there is a risk that others recognise this and choose not to listen to you.
 
-## <a id="using-email">Using email in a specific, structured way</a>
+## <a id="using-email">Using email for a structured discussion</a>
 Email is a tool that can be used in many different ways, and in the IETF there is a particular way that is the most productive and the most effective. This is not about netiquette or some old-fashioned idea of how email should be used - this is a specific method that uses email very similarly to issue trackers such as GitHub, and thereby makes it as easy as possible for other readers to follow and later reference a discussion.
 
 Remember, reading email is time-consuming and takes mental effort. Nobody is required to read your emails, not even document authors or WG chairs. The more you can do to structure your emails to mimimise the time and effort required by other readers, the more effective your emails will be.
