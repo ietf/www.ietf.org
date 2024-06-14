@@ -15,7 +15,7 @@ This section draws on [BCP 78: Rights Contributors Provide to the IETF Trust](ht
 This section makes regular reference to the [IETF Trust](https://trustee.ietf.org), the separate legal entity that holds and grants rights on behalf of the IETF. 
 
 ### <a id="contributions">Contributions</a>
-Almost everything you write and share with the IETF is classified as a **Contribution** and therefore includes a basic grant of rights to the IETF Trust for that contribution.
+Almost everything you provide to the IETF, as set out below, is classified as a **Contribution** and therefore includes a basic grant of rights to the IETF Trust for that contribution.
 
 [Section 1 of BCP 78](https://www.rfc-editor.org/rfc/rfc5378.html#section-1) formally defines a **Contribution** as:
 
