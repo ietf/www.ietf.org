@@ -4,7 +4,7 @@ A guide for people who have a new idea or some proposed work they wish to bring 
 * <a href="#checklist">Is the IETF the right place to bring this work?</a>
 * <a href="#internet-drafts">Writing up the idea as an Internet-Draft</a>
 * <a href="#rights">Understanding rights and Intellectual Property</a>
-* <a href="#aims">Deciding what outcome your are aiming for</a>
+* <a href="#aims">Deciding what outcome you are aiming for</a>
 * <a href="#appropriate-part">Finding the most appropriate WG to share your I-D</a>
 * <a href="#no-existing-wg">If there isn't an appropriate existing WG</a>
 * <a href="#next-steps">Next steps</a>
