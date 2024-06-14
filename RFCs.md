@@ -81,8 +81,25 @@ The IETF recognizes that security vulnerabilities will be discovered in IETF pro
 
 # I-Ds as the origin
 
-
 RFCs usually begin as Internet-Drafts (I-Ds) written by an individual or a small group. In the IETF, these are then usually adopted by a working group, and improved and revised. Less often, I-Ds are considered within the IETF as “individual submissions” sponsored by an Area Director. While not every I-D becomes an RFC, a well-defined set of processes (also documented in RFCs) guides the consideration and progression of a document. When they are published, RFCs are freely available online. 
 
 Internet-Drafts can be written and shared by anyone. Only some Internet-Drafts (I-Ds) are formally adopted for consideration by a group in the IETF and an even smaller fraction become RFCs.
 
+# How to Read an RFC
+This [blog post](https://www.ietf.org/blog/how-read-rfc/) by Mark Nottingham provides a practical approach to reading RFCs, the document format in which specifications developed in the IETF are published.
+
+# Appendix: Where do RFCs come from?
+An abridged list of information about RFCs and Internet-Drafts.
+* Internet-Drafts can be written and shared by anyone. Only some Internet-Drafts (I-Ds) are formally adopted for consideration by a group in the IETF and an even smaller fraction become RFCs.
+* Not all RFCs are standards. Only RFCs that open with words like "This document specifies an Internet standards track protocol" or "This memo documents an Internet Best Current Practice" are normative documents approved by the IETF. (Most recently, they will also have a header stating "Category: Standards Track" or "Category: Best Current Practice".) Any other RFC is informational in nature, even if it reads like a technical specification and even if a marketing person asserts that it's a standard. (Some such RFCs carry the label "Experimental" or "Historic" rather than "Informational".)
+* Even standards track RFCs may be obsolete. Often a more recent RFC has obsoleted an older one. You can't find this out from looking at the old one.
+* Not all RFCs come from the IETF.Some RFCs come from the IAB, the IRTF, or are independent submissions. None of these are standards.
+* Always check the status of an RFC. There are various ways to do this; the most fundamental source is the RFC Editor site.
+* Formally standardized RFCs come in several flavors:
+  * Proposed Standard (PS). The first official stage, but many standards never progress beyond this level (probably because IETFers don't like bureaucracy). 
+  * Draft Standard. An intermediate stage that is no longer used for new standards. 
+  * Internet Standard. The final stage, when the standard is shown to be interoperable and widely deployed. However, a new Proposed Standard may well obsolete an older Internet Standard. 
+  * Best Current Practice (BCP). This is a single stage alternative to the above for operational specifications
+* The text of an RFC never changes. When an RFC is updated, it gets a new number. IETF RFCs, including standards track RFCs, can be updated by an IETF Working Group or by individual authors working within the IETF process. If you think an IETF RFC needs updating, you will need to either participate in the IETF yourself and do the work, or persuade someone else to do so. RFC authors are usually glad to hear from people using their work who have constructive suggestions.
+* Some RFCs have errata. As people read and re-read RFCs, they often find mistakes. When those people are kind enough to report those mistakes to the RFC Editor, the errata can become associated with the RFC. You can see the errata in the search results from the RFC Editor site. Errata include technical mistakes as well as editorial errors that were not found in the RFC before it was published; therefore, reviewing the errata for an RFC is always a good idea.
+* Finding RFCs for a particular topic is an art. To find RFCs on a given topic, a good option is to consult the indexes at the RFC Editor site. Another option is the search feature of the IETF Datatracker.
