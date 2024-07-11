@@ -28,7 +28,7 @@ RFCs are not guaranteed to be patent-free and anyone interested in the Intellect
 ## <a id="formats">Publication formats</a>
 RFCs are published in the following formats:
 
-* **HTML**. This is the best format to read an RFC in for a number of reasons: the page layout adapts to the window size; where SVG diagrams are supplied then they are displayed; and the text is accompanied by a header showing important metadata including the details of any RFCs that this RFC updates or obsoletes, and vice versa, as well as indicating the existing of errata and linking to those. For RFCs before [TODO], the HTMLised (see below) format is used in place of the HTML. 
+* **HTML**. This is the best format to read an RFC in for a number of reasons: the page layout adapts to the window size; where SVG diagrams are supplied then they are displayed; and the text is accompanied by a header showing important metadata including the details of any RFCs that this RFC updates or obsoletes, and vice versa, as well as indicating the existing of errata and linking to those. For RFCs before RFC 8650, the HTMLised (see below) format is used in place of the HTML. 
 
 * **Plain Text**. RFCs were originally produced on typewriters and a plain text format that looks very similar to those original RFCs, is still available. The main limitations of the plain text format are that the metadata cannot change, only ASCII diagrams can be used, all of the links in the text need to be shown as annotations, and there is no indication of the existence of errata.
 
@@ -36,7 +36,7 @@ RFCs are published in the following formats:
 
 * **PDF**. This is a PDF of an HTML rendering of the RFC and so it can include any SVG diagrams and the links work but again the metadata is limited.  PDFs are the only paginated RFC format.
 
-* **RFCXML**. This is the raw source of RFCs, not a publication format. RFCXML is an XML language fully documented on the [I-D Authors Resource Site](https://authors.ietf.org) and has been used as the source format since RFC 8651.
+* **RFCXML**. This is the raw source of RFCs, not a publication format. RFCXML is an XML language fully documented on the [I-D Authors Resource Site](https://authors.ietf.org) and has been used as the source format since RFC 8650.
 
 ## <a id="statuses">Statuses</a>
 Most RFCs and all new RFCs have one of the following statusus. Statuses may change over time. 
