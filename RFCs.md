@@ -36,14 +36,14 @@ RFCs are published in the following formats:
 
 * **PDF**. This is a PDF of an HTML rendering of the RFC and so it can include any SVG diagrams and the links work but again the metadata is limited.  PDFs are the only paginated RFC format.
 
-* **RFCXML**. This is the raw source of RFCs, not a publication format. RFCXML is an XML language fully documented on https://authors.ietf.org and has been used as the source format since RFC 8651.
+* **RFCXML**. This is the raw source of RFCs, not a publication format. RFCXML is an XML language fully documented on the [I-D Authors Resource Site](https://authors.ietf.org) and has been used as the source format since RFC 8651.
 
 ## <a id="statuses">Statuses</a>
 Most RFCs and all new RFCs have one of the following statusus. Statuses may change over time. 
 
-* **Informational**. `An "Informational" specification is published for the general information of the Internet community, and does not represent an Internet community consensus or recommendation.` [RFC 2026], Section 4.2.2
+* **Informational**. `An "Informational" specification is published for the general information of the Internet community, and does not represent an Internet community consensus or recommendation.` [RFC 2026, Section 4.2.2](https://www.rfc-editor.org/rfc/rfc2026.html#section-4.2.2)
 
-* **Experimental**. `The "Experimental" designation typically denotes a specification that is part of some research or development effort.  Such a specification is published for the general information of the Internet technical community and as an archival record of the work` [RFC 2026], Section 4.2.1
+* **Experimental**. `The "Experimental" designation typically denotes a specification that is part of some research or development effort.  Such a specification is published for the general information of the Internet technical community and as an archival record of the work` [RFC 2026, Section 4.2.1](https://www.rfc-editor.org/rfc/rfc2026.html#section-4.2.1)
 
 * Standards have one of the following statuses:
 
@@ -53,9 +53,9 @@ Most RFCs and all new RFCs have one of the following statusus. Statuses may chan
 
    * **Internet Standard**. The final stage, when the standard is shown to be interoperable and widely deployed. 
 
-* **Best Current Practice (BCP)**. BCPs have a dual role.  One is to document IETF processes as agreed by the IETF community, and the other is explained in [RFC 2026], Section 5, as: `since the Internet itself is composed of networks operated by a great variety of organizations, with diverse goals and rules, good user service requires that the operators and administrators of the Internet follow some common guidelines for policies and operations.`
+* **Best Current Practice (BCP)**. BCPs have a dual role.  One is to document IETF processes as agreed by the IETF community, and the other is explained in [RFC 2026, Section 5](https://www.rfc-editor.org/rfc/rfc2026.html#section-5) as: `since the Internet itself is composed of networks operated by a great variety of organizations, with diverse goals and rules, good user service requires that the operators and administrators of the Internet follow some common guidelines for policies and operations.`
 
-* **Historic**. `A specification that has been superseded by a more recent specification or is for any other reason considered to be obsolete is assigned to the "Historic" level.` [RFC 2026], Section 4.2.4
+* **Historic**. `A specification that has been superseded by a more recent specification or is for any other reason considered to be obsolete is assigned to the "Historic" level.` [RFC 2026, Section 4.2.4](https://www.rfc-editor.org/rfc/rfc2026.html#section-4.2.4)
 
 * RFCs that were published before statuses were introduced (before RFC 1128) are mostly considered to have an **Unknown** status, with a handful having had statuses retroactively applied.
 
@@ -66,7 +66,7 @@ THE **IETF Stream** is the only stream that can publish standards and by far the
 
 The **[IAB Stream](https://datatracker.ietf.org/stream/iab/)** and **[IRTF Stream](https://datatracker.ietf.org/stream/irtf/)** can also publish technical and process RFCs related to their role.
 
-The Editorial Stream, as described by [RFC 9280] publishes policies governing the RFC Series as a whole.
+The Editorial Stream, as described by [RFC 9280](https://www.rfc-editor.org/rfc/rfc9280.html) publishes policies governing the RFC Series as a whole.
 
 The **[Independent Submissions Stream](https://www.rfc-editor.org/about/independent/)** publishes RFCs that are outside the official processes of the IETF, IAB, and IRTF but are relevant to the Internet community and achieve reasonable levels of technical and editorial quality.
 
