@@ -7,9 +7,6 @@
 * <a href="#obsoleting-and-updating">Obsoleting and updating</a><br/>
 * <a href="#errata">Corrections and errata</a><br/>
 * <a href="#vulnerabilities">Reporting vulnerabilities in RFCs</a><br/>
-* <a href="#how-to-read">How to Read an RFC</a><br/>
-
-<br/>
 
 ## <a id="introduction">Introduction</a>
 The IETF publishes its technical documentation as RFCs, an acronym for their historical title *Requests for Comments*. They describe the Internet's technical foundations, such as addressing, routing, and transport technologies. RFCs also specify protocols like TLS 1.3, QUIC, and WebRTC that are used to deliver services used by billions of people every day, such as real-time collaboration, email, and the domain name system.
