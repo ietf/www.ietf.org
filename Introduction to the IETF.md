@@ -47,13 +47,13 @@ The IETF pursues its mission in adherence to the following cardinal principles:
 
 ## <a id="rfcs">RFCs</a>
 
-The IETF publishes its technical documentation as RFCs, an acronym for their historical title *Requests for Comments*. RFCs are sequentially numbered, starting with RFC 1 published in 1969 (the RFC series predates the IETF). Each RFC has a status, generally one of 'Internet Standard', 'Proposed Standard', 'Best Current Practice' (or 'BCP' in short),  'Informational', 'Experimental' or 'Historic'.  Some statuses may change over time. RFCs are freely available.
+The IETF publishes its technical documentation as RFCs, an acronym for their historical title *Requests for Comments*. They describe the Internet's technical foundations, such as addressing, routing, and transport technologies. RFCs also specify protocols like TLS 1.3, QUIC, and WebRTC that are used to deliver services used by billions of people every day, such as real-time collaboration, email, and the domain name system.
 
-The RFC series has two sub-series, STDs and BCPs, with each numbered STD and BCP comprising one or more RFCs. STDs are 'Internet Standard' RFCs and BCPs are RFCs that describe Best Current Practices in the Internet, some of which are administrative processes for the IETF. 
+Software developers, hardware manufacturers, and network operators around the world voluntarily implement and adopt the technical specifications and best practices described by RFCs.
 
-Once an RFC is published, it is never revised. If the specification it describes changes, the standard will be re-published in another RFC that "obsoletes" the first. If a technical or editorial error is found in an RFC, an errata may be linked to the RFC and/or held for the next document update.
+The [RFC Editor](https://www.rfc-editor.org) website is the authoritative site for RFCs. The [IETF Datatracker](https://datatracker.ietf.org/) provides transparency on the process that resulted in the publication of each RFC.
 
-The authoritative repository of RFCs is the [RFC Editor](https://www.rfc-editor.org) website.
+For more information see [About RFCs](https://www.ietf.org/process/rfcs/).
 
 ## <a id="work">The Work</a>
 
@@ -69,16 +69,8 @@ When an I-D has cleared all the hurdles to become an RFC it goes through a profe
 
 ## <a id="meetings">IETF Meetings</a>
 
-The IETF holds three week-long meetings a year with the primary goal of helping Working Groups get their tasks done, and promoting cross-WG discussions. In-person participation at IETF meetings now averages between 1000 and 1500 participants, with hundreds of additional participants joining remotely. These meetings rotate around the globe.
+The IETF holds three week-long meetings a year. Onsite participation averages between 1000 and 1500 participants. Every effort is made to integrate the 600+ remote participants into the overall meeting experience.
 
-IETF meetings are very different from standard computer industry conferences as there is no exposition hall, no sales staff and the sessions are mostly meetings of existing or proposed working groups who meet to discuss their ongoing work. There are generally several concurrent session tracks.
+IETF meetings are very different from standard industry conferences as they are working meetings with the primary goal of helping Working Groups (WGs) get their tasks done, and the secondary goal of promoting mixing among the WGs. For that reason, most of the agenda is comprised of multiple simultaneous sessions for Working Groups. There is no exposition hall and only a small section of the agenda is set aside for tutorials, industry presentations, panel sessions, and opportunities for the whole community to come together.
 
-WG sessions at IETF meetings are not decision making and any consensus reached during a session must be referred to the WG mailing list to see if it has consensus support across all WG participants, not just those that participated in the session.
-
-To assist newcomers, there are tutorials and networking sessions, and often several social events open to all participants. Additionally, there is a plenary session for the IETF to meet as a whole, and where the various leadership bodies report on their activities and take questions from the participants.
-
-All sessions have live remote participation support and recordings of the sessions are posted on YouTube soon after they are recorded.  The full proceedings of all IETF meetings (agenda, sessions materials, recordings, chat logs, etc) are archived and permanently available online after the meeting.
-
-IETF meetings are operated on a cost-recovery basis and participants are charged a fee to participate, whether in person or remotely, as sponsorship income does not cover the full cost. There is a "no questions asked" remote participation fee waiver available to anyone for whom the fee would be a barrier to participation.
-
-Individual Working Groups can choose to hold interim meetings outside of the regular IETF meeting cycle.  These are often remote-only and are always free to participate in.
+For more information see [Guide to IETF Meetings](https://www.ietf.org/meeting/guide-ietf-meetings/).
