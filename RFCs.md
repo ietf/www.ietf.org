@@ -2,7 +2,7 @@
 * <a href="#series-structure">Structure of the series</a><br/>
 * <a href="#availability-and-use">Availability and use</a><br/>
 * <a href="#formats">Publication formats</a><br/>
-* <a href="#statuses">Statusus</a><br/>
+* <a href="#statuses">Statuses</a><br/>
 * <a href="#streams">Publication streams</a><br/>
 * <a href="#obsoleting-and-updating">Obsoleting and updating</a><br/>
 * <a href="#errata">Corrections and errata</a><br/>
@@ -41,7 +41,7 @@ RFCs are published in the following formats:
 
 * **RFCXML**. This is the raw source of RFCs, not a publication format. RFCXML is an XML language fully documented on https://authors.ietf.org and has been used as the source format since RFC 8651.
 
-## <a id="statuses">Statusus</a>
+## <a id="statuses">Statuses</a>
 Most RFCs and all new RFCs have one of the following statusus. Statuses may change over time. 
 
 * **Informational**. `An "Informational" specification is published for the general information of the Internet community, and does not represent an Internet community consensus or recommendation.` [RFC 2026], Section 4.2.2
