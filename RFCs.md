@@ -39,7 +39,7 @@ RFCs are published in the following formats:
 * **RFCXML**. This is the raw source of RFCs, not a publication format. RFCXML is an XML language fully documented on the [I-D Authors Resource Site](https://authors.ietf.org) and has been used as the source format since RFC 8650.
 
 ## <a id="statuses">Statuses</a>
-Most RFCs and all new RFCs have one of the following statusus. Statuses may change over time. 
+Most RFCs and all new RFCs have one of the following statuses. Statuses may change over time. 
 
 * **Informational**. `An "Informational" specification is published for the general information of the Internet community, and does not represent an Internet community consensus or recommendation.` [RFC 2026, Section 4.2.2](https://www.rfc-editor.org/rfc/rfc2026.html#section-4.2.2)
 
