@@ -26,7 +26,7 @@ The RFC series has two sub-series, STDs and BCPs, with each numbered STD and BCP
 ## <a id="availability-and-use">Availability and use</a>
 RFCs are freely available to download, copy, publish, display and distribute, in a variety of formats, under a license granted by the [IETF Trust](https://trustee.ietf.org). This license, the [Trust Legal Provisions](https://trustee.ietf.org/documents/trust-legal-provisions/tlp-5/) has some important restrictions, including a prohibition on modification of RFCs outside of the IETF Standards Process.
 
-RFCs are not guaranteed to be patent-free and anyone interested in the IPR constraints on a specific document should consult the IETF's [IPR disclosure database](https://datatracker.ietf.org/ipr/), though this is not guaranteed to be a complete record of applicable patents. 
+RFCs are not guaranteed to be patent-free and anyone interested in the Intellectual Property Rights (IPR) constraints on a specific document should consult the IETF's [IPR disclosure database](https://datatracker.ietf.org/ipr/), though this is not guaranteed to be a complete record of applicable patents. 
 
 ## <a id="formats">Publication formats</a>
 RFCs are published in the following formats:
@@ -89,6 +89,3 @@ Verified errata are linked to the RFC but the RFC is not republished with the er
 
 ## <a id="vulnerabilities">Reporting vulnerabilities in RFCs</a>
 The IETF recognizes that security vulnerabilities will be discovered in IETF protocols and welcomes their critical evaluation by researchers. If you believe that you have discovered a vulnerability in an IETF protocol then please follow our guidance on [how to report vulnerabilities](https://www.ietf.org/process/rfcs/vulnerabilities/).
-
-## <a id="how-to-read">How to Read an RFC</a>
-Finally, this [blog post](https://www.ietf.org/blog/how-read-rfc/) provides a practical approach to reading RFCs.
