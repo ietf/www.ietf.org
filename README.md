@@ -28,8 +28,8 @@ The following have all been published. For now, that is a manual process whereby
 * **[Guide to IETF Meetings](/Guide%20to%20IETF%20Meetings.md)**. This is a published as a [page](https://www.ietf.org/how/meetings/introduction-to-ietf-meetings/). It is written largely for those new to IETF meetings and is intentionally a long read.  Some elements are intentionally just brief references to other pages (e.g. Meeting Technology, Support for New Participants).
 * **[Support for new participants](/Support%20for%20new%20participants.md)**. This is published as a [section](https://www.ietf.org/how/meetings/new-participants/) of a page with the rest of that page including specific information about the upcoming IETF meeting.
 * **[Guide to bringing new work to the IETF](/Guide%20to%20bringing%20new%20work%20to%20the%20IETF.md)**.  This is published as a [page](https://www.ietf.org/process/new-work/) replacing the previous content on that page.
-  * **[Guide to IETF Working Groups](/Guide%20to%20IETF%20Working%20Groups.md)**. This is published as a [page](https://www.ietf.org/process/wgs/) replacing the previous content on that page.
-  * **[About RFCs](/RFCs.md)**. This is published as a [page](https://www.ietf.org/process/rfcs/) replacing tbe previous content on that page.  This an Introduction but to preserve the original page name, it is not labelled as such
+* **[Guide to IETF Working Groups](/Guide%20to%20IETF%20Working%20Groups.md)**. This is published as a [page](https://www.ietf.org/process/wgs/) replacing the previous content on that page.
+* **[About RFCs](/RFCs.md)**. This is published as a [page](https://www.ietf.org/process/rfcs/) replacing tbe previous content on that page.  This an Introduction but to preserve the original page name, it is not labelled as such
 
 # Working content
 The following are all being worked on and may change or be reorganised at any point.
