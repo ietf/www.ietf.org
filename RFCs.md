@@ -25,16 +25,16 @@ RFCs are freely available to download, copy, publish, display and distribute, in
 
 RFCs are not guaranteed to be patent-free and anyone interested in the Intellectual Property Rights (IPR) constraints on a specific document should consult the IETF's [IPR disclosure database](https://datatracker.ietf.org/ipr/), though this is not guaranteed to be a complete record of applicable patents. 
 
-## <a id="formats">Publication formats</a>
+### <a id="formats">Publication formats</a>
 RFCs are published in the following formats:
 
-* **HTML**. This is the best format to read an RFC in for a number of reasons: the page layout adapts to the window size; where SVG diagrams are supplied then they are displayed; and the text is accompanied by a header showing important metadata including the details of any RFCs that this RFC updates or obsoletes, and vice versa, as well as indicating the existence of errata and linking to those. For RFCs before RFC 8650, the HTMLised (see below) format is used in place of the HTML. 
+* **HTML**. This is the most flexible format for reading an RFC: the page layout adapts to the window size; if SVG diagrams are supplied, they are displayed; and the text is accompanied by a header showing important metadata, including the details of any RFCs that this RFC updates or obsoletes, and vice versa, as well as indicating the existence of errata and linking to those. For RFCs before RFC 8650, the HTMLised (see below) format is used in place of the HTML. 
 
-* **Plain Text**. RFCs were originally produced on typewriters, and a plain text format that looks very similar to those original RFCs is still available. The main limitations of the plain text format are that the metadata cannot change, only ASCII diagrams can be used, all of the links in the text need to be shown as annotations, and there is no indication of the existence of errata.
+* **Plain Text**. RFCs were originally produced on typewriters, and a plain text format that looks very similar to those original RFCs is still available. The main limitations of the plain text format are that the metadata cannot change, only ASCII diagrams can be displayed, links in the text are shown as annotations, the line width is fixed so may be difficult to read on a mobile device, and there is no indication of the existence of errata.
 
-* **HTMLised**. This format displays the Plain Text format as an HTML page accompanied by all of the same metadata as the HTML version, and all the links in the text work as expected.  The limitations are that it can still only show ASCII diagrams and that the line width is fixed and so may be difficult to read on a mobile device.
+* **HTMLised**. This format displays the Plain Text format as an HTML page with working links and the same metadata as the HTML version; however, it shares the rest of the limitations as the plain text format. This format is available for RFCs before RFC 8650.
 
-* **PDF**. This is a PDF of an HTML rendering of the RFC and so it can include any SVG diagrams and the links work but again the metadata is limited.  PDFs are the only paginated RFC format.
+* **PDF**. This is a PDF of an HTML rendering of the RFC, so it can display any SVG diagrams and it provides working links. However, the metadata is limited.  PDFs are the only paginated RFC format.
 
 * **RFCXML**. This is the raw source of RFCs, not a publication format. RFCXML is an XML language fully documented on the [I-D Authors Resource Site](https://authors.ietf.org) and has been used as the source format since RFC 8650.
 
