@@ -18,8 +18,8 @@ These are the types of content that we are working on in this repository:
 | Type | Description | Audience |
 |------|-------------|----------|
 | Summary | A very short piece (generally no more than 1500 words) that tells people that the subject exists | General public |
-| Introduction | Several paragraphs that very briefly explain the key points about a subject | Potential and new participants| 
-| Guide | Detailed piece that provides the details of a subject but does not include any arcana or details that are only relevant to a small subset of readers | New and established participants|
+| Introduction | Several paragraphs that very briefly explain the key points about a subject.  All headings are at the same level (h2) and if needed there is a TOC. | Potential and new participants| 
+| Guide | Detailed piece that provides the details of a subject but does not include any arcana or details that are only relevant to a small subset of readers.  Headings are structured from h2 to h4 and there is always a TOC. | New and established participants|
 
 # Published content
 The following have all been published. For now, that is a manual process whereby the content is pasted into the website CMS, but it is hoped that this will be automated in the future.  Unless stated otherwise, you are free to submit a PR on any of this content.
