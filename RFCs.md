@@ -25,7 +25,7 @@ RFCs are freely available to download, copy, publish, display and distribute, in
 
 RFCs are not guaranteed to be patent-free and anyone interested in the Intellectual Property Rights (IPR) constraints on a specific document should consult the IETF's [IPR disclosure database](https://datatracker.ietf.org/ipr/), though this is not guaranteed to be a complete record of applicable patents. 
 
-### <a id="formats">Publication formats</a>
+## <a id="formats">Publication formats</a>
 RFCs are published in the following formats:
 
 * **HTML**. This is the most flexible format for reading an RFC: the page layout adapts to the window size; if SVG diagrams are supplied, they are displayed; and the text is accompanied by a header showing important metadata, including the details of any RFCs that this RFC updates or obsoletes, and vice versa, as well as indicating the existence of errata and linking to those. For RFCs before RFC 8650, the HTMLised (see below) format is used in place of the HTML. 
