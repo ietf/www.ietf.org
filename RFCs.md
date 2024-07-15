@@ -18,23 +18,23 @@ The [RFC Editor](https://www.rfc-editor.org) website is the authoritative site f
 ## <a id="series-structure">Structure of the series</a>
 RFCs are sequentially numbered, starting with RFC 1 published in 1969 (the RFC series predates the IETF). Today, there are more than 9000 documents in the series.  
 
-The RFC series has two sub-series, STDs and BCPs, with each numbered STD and BCP comprising one or more RFCs. STDs are 'Internet Standard' RFCs and BCPs are RFCs that describe 'Best Current Practices' in the Internet, some of which are administrative processes for the IETF.
+The RFC series has two subseries, STDs and BCPs, with each numbered STD and BCP comprising one or more RFCs. STDs are 'Internet Standard' RFCs, and BCPs are RFCs that describe 'Best Current Practices' for the Internet, some of which are administrative processes for the IETF.
 
 ## <a id="availability-and-use">Availability and use</a>
-RFCs are freely available to download, copy, publish, display and distribute, in a variety of formats, under a license granted by the [IETF Trust](https://trustee.ietf.org). This license, the [Trust Legal Provisions](https://trustee.ietf.org/documents/trust-legal-provisions/tlp-5/) has some important restrictions, including a prohibition on modification of RFCs outside of the IETF Standards Process.
+RFCs are freely available to download, copy, publish, display and distribute, in a variety of formats, under a license granted by the [IETF Trust](https://trustee.ietf.org). This license, the [Trust Legal Provisions](https://trustee.ietf.org/documents/trust-legal-provisions/tlp-5/), has some important restrictions, including a prohibition on modification of RFCs outside of the IETF Standards Process.
 
 RFCs are not guaranteed to be patent-free and anyone interested in the Intellectual Property Rights (IPR) constraints on a specific document should consult the IETF's [IPR disclosure database](https://datatracker.ietf.org/ipr/), though this is not guaranteed to be a complete record of applicable patents. 
 
-## <a id="formats">Publication formats</a>
+### <a id="formats">Publication formats</a>
 RFCs are published in the following formats:
 
-* **HTML**. This is the best format to read an RFC in for a number of reasons: the page layout adapts to the window size; where SVG diagrams are supplied then they are displayed; and the text is accompanied by a header showing important metadata including the details of any RFCs that this RFC updates or obsoletes, and vice versa, as well as indicating the existing of errata and linking to those. For RFCs before RFC 8650, the HTMLised (see below) format is used in place of the HTML. 
+* **HTML**. This is the most flexible format for reading an RFC: the page layout adapts to the window size; if SVG diagrams are supplied, they are displayed; and the text is accompanied by a header showing important metadata, including the details of any RFCs that this RFC updates or obsoletes, and vice versa, as well as indicating the existence of errata and linking to those. For RFCs before RFC 8650, the HTMLised (see below) format is used in place of the HTML. 
 
-* **Plain Text**. RFCs were originally produced on typewriters and a plain text format that looks very similar to those original RFCs, is still available. The main limitations of the plain text format are that the metadata cannot change, only ASCII diagrams can be used, all of the links in the text need to be shown as annotations, and there is no indication of the existence of errata.
+* **Plain Text**. RFCs were originally produced on typewriters, and a plain text format that looks very similar to those original RFCs is still available. The main limitations of the plain text format are that the metadata cannot change, only ASCII diagrams can be displayed, links in the text are shown as annotations, the line width is fixed so may be difficult to read on a mobile device, and there is no indication of the existence of errata.
 
-* **HTMLised**. This format displays the Plain Text format as an HTML page accompanied by all of the same metadata as the HTML version, and all the links in the text work as expected.  The limitations are that it can still only show ASCII diagrams and that the line width is fixed and so may be difficult to read on a mobile device.
+* **HTMLised**. This format displays the Plain Text format as an HTML page with working links and the same metadata as the HTML version; however, it shares the rest of the limitations as the plain text format. This format is available for RFCs before RFC 8650.
 
-* **PDF**. This is a PDF of an HTML rendering of the RFC and so it can include any SVG diagrams and the links work but again the metadata is limited.  PDFs are the only paginated RFC format.
+* **PDF**. This is a PDF of an HTML rendering of the RFC, so it can display any SVG diagrams and it provides working links. However, the metadata is limited.  PDFs are the only paginated RFC format.
 
 * **RFCXML**. This is the raw source of RFCs, not a publication format. RFCXML is an XML language fully documented on the [I-D Authors Resource Site](https://authors.ietf.org) and has been used as the source format since RFC 8650.
 
@@ -78,11 +78,11 @@ Most of the publication formats note if an RFC has been obsoleted or updated and
 ## <a id="errata">Corrections and errata</a>
 With one exception, once an RFC is published, it is never changed, which is why the RFC series is often described as "archival" in nature. The one exception to this rule is if an RFC is rendered incorrectly, such as some text cut off, in which case the specific publication format with the problem may be replaced.
 
-If a technical or editorial error in an RFC is reported, an errata may be created that documents the error and optionally provides a correction. Newly Reported errata are checked and either Verified, Rejected or Held for Document Update.  For Technical errata, this decision is made by the appropriate Area Director, and for Editorial errata, by the RFC Editor.
+If a technical or editorial error in an RFC is reported, an erratum may be created that documents the error and optionally provides a correction. Newly Reported errata are checked and either Verified, Rejected or Held for Document Update.  For Technical errata, this decision is made by the appropriate stream-specific party, and for Editorial errata, by the RFC Editor.
 
 The RFC Editor site has more details on these [statuses](https://www.rfc-editor.org/errata-definitions/) and a [searchable errata database](https://www.rfc-editor.org/errata.php).
 
-Verified errata are linked to the RFC but the RFC is not republished with the errata incorporated.  There is ongoing work to provide a good way of displaying an RFC with the errata incorporated.
+Verified errata are linked to the RFC, but the RFC is not republished with the errata incorporated.  There is ongoing work to provide a good way of displaying an RFC with the errata incorporated.
 
 ## <a id="vulnerabilities">Reporting vulnerabilities in RFCs</a>
 The IETF recognizes that security vulnerabilities will be discovered in IETF protocols and welcomes their critical evaluation by researchers. If you believe that you have discovered a vulnerability in an IETF protocol then please follow our guidance on [how to report vulnerabilities](https://www.ietf.org/process/rfcs/vulnerabilities/).
