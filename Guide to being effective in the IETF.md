@@ -12,8 +12,6 @@
    * <a href="#rich-text">Avoid rich text formatting</a><br>
 * <a href="#communication-style">General style of communications</a><br>
 
-<br>
-
 ## <a id="introduction">Introduction</a>
 Participating in the IETF and having your views listened to and your contributions actively shaping the work is a very rewarding experience.  Getting to that point means acquiring knowledge of IETF processes and adopting a small set of helpful practices. What follows is a guide to that set of practices, a guide to being effective in the IETF.
 

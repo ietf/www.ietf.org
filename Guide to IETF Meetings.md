@@ -44,7 +44,9 @@
 ## <a id="meetings">About IETF Meetings</a>
 The IETF holds three week-long meetings a year. Onsite participation averages between 1000 and 1500 participants. Every effort is made to integrate the 600+ remote participants into the overall meeting experience.
 
-IETF meetings are very different from standard industry conferences as they are working meetings with the primary goal of helping Working Groups (WGs) get their tasks done, and the secondary goal of promoting mixing among the WGs. For that reason, most of the agenda is comprised of multiple simultaneous sessions for Working Groups. There is no exposition hall and only a small section of the agenda is set aside for tutorials, industry presentations, panel sessions, and opportunities for the whole community to come together. 
+IETF meetings are working meetings with the primary goal of helping Working Groups (WGs) get their tasks done, and the secondary goal of promoting mixing among the WGs. Most of the agenda is comprised of multiple simultaneous sessions for Working Groups. Only a small section of the agenda is set aside for tutorials, a single industry presentation, one or two panel sessions, and two receptions for the whole community to come together. 
+
+IETF meetings are not conferences. There is no exposition hall, no booths, no marketing staff and no advertising. 
 
 The dates of [upcoming meetings](https://www.ietf.org/how/meetings/upcoming/) are set many years in advance.
 
