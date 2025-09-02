@@ -22,7 +22,7 @@ The IETF has a specific focus and so it is important to check that your proposed
 More information can be found in [Section 4 of RFC 3935](https://datatracker.ietf.org/doc/html/rfc3935#section-4) "A mission statement for the IETF".
 
 ## <a id="internet-drafts">Writing up the idea as an Internet-Draft</a>
-If you want to bring an idea to the IETF then you should to write it up as an Internet-Draft ([I-D](https://www.ietf.org/participate/ids/) and submit it to the IETF or it is highly unlikely to be properly considered by other IETF participants. Writing an Internet-Draft allows you to clearly explain your idea, provide references to related work or other sources, set out your goals for the idea, and cover the key questions above.  Anyone can write and submit an Internet-Draft on any subject, no permission is required.
+If you want to bring an idea to the IETF then you should to write it up as an Internet-Draft ([I-D](https://www.ietf.org/participate/ids/)) and submit it to the IETF or it is highly unlikely to be properly considered by other IETF participants. Writing an Internet-Draft allows you to clearly explain your idea, provide references to related work or other sources, set out your goals for the idea, and cover the key questions above.  Anyone can write and submit an Internet-Draft on any subject, no permission is required.
 
 See the [Authors website](https://authors.ietf.org) to learn how to write and submit Internet-Drafts.
 
