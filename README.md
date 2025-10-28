@@ -44,7 +44,6 @@ The following are all being worked on and may change or be reorganised at any po
 
 # Relationship to previous content
 * **Tao of the IETF**. [The Tao has been retired](https://www.rfc-editor.org/rfc/rfc9592.html) with the topics now covered in the new set of documents above, which are in many cases largely drawn from Tao content and cover the same subject matter, though written differently.  
-* **[Informal Guide to the Standard Process](https://www.ietf.org/standards/process/informal/)**.  This will, if possible, be incorporated into the new content.
 
 # Content style guide
 
