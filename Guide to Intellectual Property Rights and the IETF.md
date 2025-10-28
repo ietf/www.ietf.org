@@ -6,7 +6,7 @@ A basic guide to the complex subject of Intellectual Property Rights (IPR) and t
     * <a href="#derivatives">Rights to derivative works</a><br/>
 * <a href="#licensing">IETF Trust licensing of Contributions</a><br/>
 * <a href="#otherassets">Licensing of other IETF Trust assets</a><br/>
-* <a href="#patents">Patents</a>
+* <a href="#patents">Patents and required disclosures</a>
 * <a href="#help">Getting help</a>
 
 ## <a id="ietfrights">The rights participants grant to the IETF</a>
@@ -68,7 +68,7 @@ The IETF Trust claims [trademark rights](https://trustee.ietf.org/assets/tradema
 
 The IETF also makes available a set of [Supporter Badges and Protocol Badges](https://www.ietf.org/badges/), with specific license terms.
 
-## <a id="patents">Patents</a>
+## <a id="patents">Patents and required disclosures</a>
 This sections draws on [BCP 79: Intellectual Property Rights in IETF Technology](https://www.rfc-editor.org/rfc/rfc8179.html), which should be consulted for further detail.
 
 The grants of rights covered above, do not affect rights to patented technology.
