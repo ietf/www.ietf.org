@@ -30,6 +30,8 @@ The following have all been published. For now, that is a manual process whereby
 * **[Guide to bringing new work to the IETF](/Guide%20to%20bringing%20new%20work%20to%20the%20IETF.md)**.  This is published as a [page](https://www.ietf.org/process/new-work/) replacing the previous content on that page.
 * **[Guide to IETF Working Groups](/Guide%20to%20IETF%20Working%20Groups.md)**. This is published as a [page](https://www.ietf.org/process/wgs/) replacing the previous content on that page.
 * **[About RFCs](/RFCs.md)**. This is published as a [page](https://www.ietf.org/process/rfcs/) replacing tbe previous content on that page.  This an Introduction but to preserve the original page name, it is not labelled as such
+* **[Informal guide to IETF process documents](/Informal%20guide%20to%20IETF%20process%documents.md)**.  This is published as a [page](https://www.ietf.org/process/informal/).  This is a rework of a long-standing page that is updated by community members.
+
 
 # Working content
 The following are all being worked on and may change or be reorganised at any point.
@@ -42,7 +44,6 @@ The following are all being worked on and may change or be reorganised at any po
 
 # Relationship to previous content
 * **[Tao of the IETF](https://www.ietf.org/about/participate/tao/)**. The Tao has now evolved into the new set of documents above, which are in many cases largely drawn from Tao content and covering the same subject matter, though written differently.  
-* **[Informal Guide to the Standard Process](https://www.ietf.org/standards/process/informal/)**.  This will, if possible, be incorporated into the new content.
 
 # Content style guide
 

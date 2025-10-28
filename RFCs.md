@@ -47,11 +47,11 @@ Most RFCs and all new RFCs have one of the following statuses. Statuses may chan
 
 * Standards have one of the following statuses:
 
-   * **Proposed Standard (PS)**. The first official stage. Many standards never progress beyond this level. 
+    * **Proposed Standard (PS)**. The first official stage. Many standards never progress beyond this level. 
 
-   * **Draft Standard**. An intermediate stage that is no longer used for new standards.
+    * **Draft Standard**. An intermediate stage that is no longer used for new standards.
 
-   * **Internet Standard**. The final stage, when the standard is shown to be interoperable and widely deployed. 
+    * **Internet Standard**. The final stage, when the standard is shown to be interoperable and widely deployed. 
 
 * **Best Current Practice (BCP)**. BCPs have a dual role.  One is to document IETF processes as agreed by the IETF community, and the other is explained in [RFC 2026, Section 5](https://www.rfc-editor.org/rfc/rfc2026.html#section-5) as: `since the Internet itself is composed of networks operated by a great variety of organizations, with diverse goals and rules, good user service requires that the operators and administrators of the Internet follow some common guidelines for policies and operations.`
 
