@@ -13,15 +13,15 @@ The IETF publishes its technical documentation as RFCs, an acronym for their his
 
 Software developers, hardware manufacturers, and network operators around the world voluntarily implement and adopt the technical specifications and best practices described by RFCs.
 
-The [RFC Editor](https://www.rfc-editor.org) website is the authoritative site for RFCs. The [IETF Datatracker](https://datatracker.ietf.org/) provides transparency on the process that resulted in the publication of each RFC.
+The [RFC Editor](https://www.rfc-editor.org) website is the authoritative site for RFCs. The [IETF Datatracker](https://datatracker.ietf.org/) provides transparency on the process that resulted in the publication of each IETF RFC.
 
 ## <a id="series-structure">Structure of the series</a>
-RFCs are sequentially numbered, starting with RFC 1 published in 1969 (the RFC series predates the IETF). Today, there are more than 9000 documents in the series.  
+RFCs are sequentially numbered, starting with RFC 1 published in 1969. (The RFC series predates the IETF.) Today, there are more than 9000 documents in the series.  
 
 The RFC series has two subseries, STDs and BCPs, with each numbered STD and BCP comprising one or more RFCs. STDs are 'Internet Standard' RFCs, and BCPs are RFCs that describe 'Best Current Practices' for the Internet, some of which are administrative processes for the IETF.
 
 ## <a id="availability-and-use">Availability and use</a>
-RFCs are freely available to download, copy, publish, display and distribute, in a variety of formats, under a license granted by the [IETF Trust](https://trustee.ietf.org). This license, the [Trust Legal Provisions](https://trustee.ietf.org/documents/trust-legal-provisions/tlp-5/), has some important restrictions, including a prohibition on modification of RFCs outside of the IETF Standards Process.
+RFCs are freely available to download, copy, publish, display and distribute, in a variety of formats, under a license granted by the [IETF Trust](https://trustee.ietf.org). This license, the [Trust Legal Provisions](https://trustee.ietf.org/documents/trust-legal-provisions/tlp-5/) has some important restrictions, including a prohibition on modification of IETF RFCs outside of the IETF Standards Process.
 
 RFCs are not guaranteed to be patent-free and anyone interested in the Intellectual Property Rights (IPR) constraints on a specific document should consult the IETF's [IPR disclosure database](https://datatracker.ietf.org/ipr/), though this is not guaranteed to be a complete record of applicable patents. 
 
