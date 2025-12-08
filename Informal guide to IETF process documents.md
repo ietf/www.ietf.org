@@ -168,7 +168,7 @@ The [Internet Research Task Force](https://www.irtf.org/) (IRTF) is quite separa
 
 Since much of the work in the IETF is conducted on mailing lists, a number of RFCs address that context:
 
-*   \[[RFC9245](https://datatracker.ietf.org/doc/rfc39245/)\] IETF Discussion List Charter
+*   \[[RFC9245](https://datatracker.ietf.org/doc/rfc9245/)\] IETF Discussion List Charter
 *   \[[RFC3683](https://datatracker.ietf.org/doc/rfc3683/)\] A Practice for Revoking Posting Rights to IETF Mailing Lists
 *   \[[RFC3934](https://datatracker.ietf.org/doc/rfc3934/)\] Updates to RFC 2418 Regarding the Management of IETF Mailing Lists
 *   \[[RFC4633](https://datatracker.ietf.org/doc/rfc4633/)\] Experiment in Long-Term Suspensions From Internet Engineering Task Force (IETF) Mailing Lists
