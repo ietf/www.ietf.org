@@ -49,10 +49,14 @@ The basic formal definition of the IETF standards process is RFC 2026 ([BCP 9](h
 
 While there are many paths an idea may take in the IETF, a general flow for many is this:
 
+## Individual Phase
+
 1. **Internet-Draft (I-D) Authoring**  
-   By writing an Internet-Draft, authors distill a problem or need, and a proposed solution or way forward, into a format that it can be shared with others in the IETF community. Anyone can write an I-D and submit it to the IETF I-D repository. The I-D format is very useful because it is familiar to IETF participants and can easily progress to an RFC document, if that is the intention. More information about the mechanics of authoring an I-D is available at [authors.ietf.org](http://authors.ietf.org).
+   By writing an Internet-Draft, individual authors distill an idea or problem or need, and a proposed way forward or solution, into a format that it can be shared with others in the IETF community. Anyone can write an I-D and submit it to the IETF I-D repository. The I-D format is very useful because it is familiar to IETF participants and can easily progress to an RFC document, if that is the intention. More information about the mechanics of authoring an I-D is available at [authors.ietf.org](http://authors.ietf.org).
 
    As an I-D, other individuals can review, discuss, and provide feedback on the ideas it presents. This initial sharing can happen in a variety of ways: informally, as part of a DISPATCH discussion, during a dedicated Birds-of-a-Feather session, or in an existing Working Group. Sometimes, I-Ds are shared in a combination of some or all of these ways. Writing an I-D does not guarantee it will be adopted as work within the IETF.
+
+## Working Group Phase
 
 3. **Working Group Call for Adoption**  
    If there seems to be sufficient interest and energy, this step establishes a forum for more formal discussion of an I-D. An I-D may be officially adopted by an existing WG if it is in scope of the WG charter. Sometimes, a WG is created to consider an I-D because it is within the IETF’s remit but no active WG charter covers the I-D’s topic. More rarely, an I-D may also be sponsored by an Area Director (AD) in which case it is not discussed in any particular WG and this step is not needed.
@@ -63,22 +67,24 @@ While there are many paths an idea may take in the IETF, a general flow for many
 5. **Working Group Last Call**  
    The goal of the Working Group Last Call (WGLC) step is to understand whether or not a document has rough consensus among WG participants (as judged by the WG Chairs) to progress to the next step of publication as an RFC. WG chairs formally initiate this step by sending an email to the WG mailing list with a date by which all comments should be received. After review, the chairs may decide that a document does not have consensus in its current form, in which case it usually will be subject to further discussion in the WG, and another WGLC will be held. If the WG chairs decide an I-D does have consensus, then it will be submitted to the AD responsible for publication as an RFC.
 
-6. **Area Director Evaluation**  
+## IESG Phase
+
+7. **Area Director Evaluation**  
    In this step, the responsible AD reviews the document with an aim of making sure it is ready for an IETF-wide Last Call (LC). The authors should reply to any comments or questions, but replies from others in the WG are also welcome. If major issues are found, a document's progress will be blocked until they are dealt with, which may require a new version of the I-D.
 
-7. **IETF Last Call**  
+8. **IETF Last Call**  
    Once the AD thinks an I-D is ready, they will initiate and announce by email to a broad cross section of the IETF community an IETF-wide Last Call (LC) with a specific date by which to provide comments. Several directorate reviews (such as Security) are also requested; the particular directorates depend on the topic of the I-D. At this stage reviews are usually not experts in the document’s topic, and come in with fresh eyes. IETF LC usually raises issues that require a new version of the I-D to address.
 
-8. **Submitted for IESG Review**  
+9. **Submitted for IESG Review**  
    Once the issues raised during IETF LC are addressed, the responsible AD will initiate IESG review. The goal of this stage is to prepare for and provide input to the formal IESG evaluation, which happens during the regularly scheduled IESG telechats.
 
-9. **IESG Evaluation and Telechat**  
+10. **IESG Evaluation and Telechat**  
    At this step, the IESG discusses an I-D, both in the IETF Datatracker and on a regularly scheduled teleconference (“telechat”) to decide whether or not it should be published as an RFC. They may raise questions at this time that can be addressed in a variety of ways, including by either sending the document back to a WG or, if it is a minor change, requesting a revision of the I-D by the author. For an I-D intended to be a Standards Track RFC, approval for publication requires “Yes” or “No objection” ballots from two-thirds of voting ADs. Informational Track RFC publication only requires a single “Yes” AD ballot position. An I-D does not proceed to publication if any AD submits a “Discuss” ballot position.
 
-10. **IESG Approval**
-    Once the document has been on a telechat, any necessary revised versions have been posted, and all DISCUSS positions are "cleared", the Responsible AD (or the IESG Secretary) will follow-up with any final changes or checks are needed. Once those are complete, the docoument is approved for publication as an RFC. At this point, the document is handed over to the [RFC Editor](https://www.rfc-editor.org), which edits, publishes, and archives RFCs.
+11. **IESG Approval**  
+   Once the document has been on a telechat, any necessary revised versions have been posted, and all DISCUSS positions are "cleared", the Responsible AD (or the IESG Secretary) will follow-up with any final changes or checks are needed. Once those are complete, the docoument is approved for publication as an RFC. At this point, the document is handed over to the [RFC Editor](https://www.rfc-editor.org), which edits, publishes, and archives RFCs.
 
-11. **Publication as an RFC**  
+13. **Publication as an RFC**  
    Once IESG approves an I-D for publication, the document is handed over to the RFC Editor for publication. At this stage, the RFC Publication Center (RPC) does a thorough editorial review to be sure the I-D is clear and comports with RFC Series editorial guidelines and style. Authors may be asked for clarification on specific points and will, during the phase called “AUTH48” be asked about specific changes the RPC wants to make. Once AUTH48 is complete, the I-D is officially published as an RFC by the RFC Editor.
 
 # <a id="groups">Groups involved in the Standards process
@@ -87,7 +93,7 @@ Below is a summary of groups involved in the IETF standards process. [RFC 9281](
 
 ## <a id="wgs">Working Groups
 
-The vast majority of the IETF's work is done in its many Working Groups, of which there are well over one hundred. A [dedicated guide to IETF Working Groups](https://www.ietf.org/process/wgs/) explains the basics of how they work, how to participate in one, and what to expect.
+The vast majority of the IETF's work is done in its many Working Groups, of which there are well over one hundred active at any time. A [dedicated guide to IETF Working Groups](https://www.ietf.org/process/wgs/) explains the basics of how they work, how to participate in one, and what to expect.
 
 ## <a id="directorates">Directorates and teams
 
