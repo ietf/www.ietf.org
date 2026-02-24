@@ -23,7 +23,7 @@ BODY
         * <a href="#welcomereception">Welcome Reception</a><br>
 * <a href="#more">More information</a><br>
 
-The IETF standards process, related processes, and the groups that guide and oversee them are defined in [RFCs](https://www.ietf.org/process/rfcs/)—many of which are further codified as Best Current Practices ([BCPs](https://www.ietf.org/process/rfcs/#series-structure))—and statements by the Internet Engineering Steering Group ([IESG](https://www.ietf.org/about/groups/iesg/)). This guide focuses on the process once ideas are determined to be within the scope of the IETF. The IETF also works on specifications that are not Internet standards, and this page provides some information about those to provide additional clarity about and context for its work on standards. 
+The IETF standards process, related processes, and the groups that guide and oversee them are defined in [RFCs](https://www.ietf.org/process/rfcs/)—many of which are further codified as Best Current Practices ([BCPs](https://www.ietf.org/process/rfcs/#series-structure))—and statements by the Internet Engineering Steering Group ([IESG](https://www.ietf.org/about/groups/iesg/)). This guide focuses on the process once ideas are determined to be within the scope of the IETF. The IETF also works on specifications that are not Internet standards, and this page includes some information about those to provide additional clarity about and context for its work on standards. 
 
 # <a id="overview">Overview
 
