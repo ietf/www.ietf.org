@@ -20,7 +20,7 @@ BODY
         * <a href="#wgs">Working Groups</a><br>
         * <a href="#directorates">Directorates and teams</a><br>
         * <a href="#iesg">Internet Engineering Steering Group</a><br>
-* <a href="diagram">Diagram of generalized IETF standards process
+* <a href="#diagram">Diagram of generalized IETF standards process
 * <a href="#more">More information</a><br>
 
 The IETF standards process, related processes, and the groups that guide and oversee them are defined in [RFCs](https://www.ietf.org/process/rfcs/)—many of which are further codified as Best Current Practices ([BCPs](https://www.ietf.org/process/rfcs/#series-structure))—and statements by the Internet Engineering Steering Group ([IESG](https://www.ietf.org/about/groups/iesg/)). A complementary [Guide to IETF process documents](https://www.ietf.org/process/guide-process-documents/) provides a more in-depth review of the variety of documents that describe the IETF standards process, as well as related groups and processes.
