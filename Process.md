@@ -1,8 +1,8 @@
 <!-- 
-SLUG: /process 
+SLUG: /guide-process 
 -->
 
-TITLE: IETF standards process
+TITLE: Guide to the IETF standards process
 
 <!-- 
 INTRODUCTION
@@ -20,10 +20,12 @@ BODY
         * <a href="#wgs">Working Groups</a><br>
         * <a href="#directorates">Directorates and teams</a><br>
         * <a href="#iesg">Internet Engineering Steering Group</a><br>
-        * <a href="#welcomereception">Welcome Reception</a><br>
+* <a href="diagram">Diagram of generalized IETF standards process
 * <a href="#more">More information</a><br>
 
-The IETF standards process, related processes, and the groups that guide and oversee them are defined in [RFCs](https://www.ietf.org/process/rfcs/)—many of which are further codified as Best Current Practices ([BCPs](https://www.ietf.org/process/rfcs/#series-structure))—and statements by the Internet Engineering Steering Group ([IESG](https://www.ietf.org/about/groups/iesg/)). This guide focuses on the process once ideas are determined to be within the scope of the IETF. The IETF also works on specifications that are not Internet standards, and this page includes some information about those to provide additional clarity about and context for its work on standards. 
+The IETF standards process, related processes, and the groups that guide and oversee them are defined in [RFCs](https://www.ietf.org/process/rfcs/)—many of which are further codified as Best Current Practices ([BCPs](https://www.ietf.org/process/rfcs/#series-structure))—and statements by the Internet Engineering Steering Group ([IESG](https://www.ietf.org/about/groups/iesg/)). A complementary [Guide to IETF process documents](https://www.ietf.org/process/guide-process-documents/) provides a more in-depth review of the variety of documents that describe the IETF standards process, as well as related groups and processes.
+
+This guide focuses on the process once ideas are determined to be within the scope of the IETF. The IETF also works on specifications that are within its scope but not Internet standards; his page includes some information about those to provide additional clarity about and context for its work on standards. 
 
 # <a id="overview">Overview
 
@@ -106,6 +108,46 @@ The IESG reviews and approves working group documents and candidates for the IET
 Sometimes, the IESG recommends changes to the content of the document. In other cases, the IESG may recommend changes to the [intended status](https://www.ietf.org/process/rfcs/#statuses) (e.g. Informational or Experimental, rather than Proposed Standard) of a document. Once the changes are made, the revised document may be resubmitted to the IESG for review. 
 
 In rare cases, the IESG may reject a document. When a document is rejected, the IESG will provide the working group with a specific and thorough argument for the rejection.
+
+# <a id="diagram">Diagram of generalized IETF standards process
+
+```mermaid
+graph TD
+    %% Initial Phase
+    Start([Idea / New Work]) --> ID[Write Internet-Draft]
+    ID --> Submission[Submit to Datatracker]
+    
+    %% WG Phase
+    Submission --> WG_Choice{Working Group?}
+    WG_Choice -- "Yes" --> WG_Adoption[WG Adoption Call]
+    WG_Choice -- "No" --> Individual[Individual Submission]
+    
+    WG_Adoption --> WG_Draft[Working Group Draft]
+    WG_Draft --> Iteration[Discussion & Iteration]
+    Iteration --> WGLC[Working Group Last Call - WGLC]
+    
+    %% IESG Review Phase
+    WGLC --> AD_Review[Area Director - AD - Review]
+    Individual --> AD_Review
+    
+    AD_Review --> IETF_LC[IETF Last Call]
+    IETF_LC --> IESG_Eval[IESG Evaluation / Ballot]
+    
+    %% Outcomes
+    IESG_Eval --> Approved{Approved?}
+    Approved -- "No" --> Iteration
+    Approved -- "Yes" --> RPC[RFC Production Center]
+    
+    %% Publication Phase
+    RPC --> Auth48[AUTH48 - Author Final Review]
+    Auth48 --> RFC_Published[[RFC Published]]
+    
+    %% Styling
+    style Start fill:#f95428,stroke:#f95428,stroke-width:2px
+    style RFC_Published fill:#002d3c,stroke:#0b8cc5,stroke-width:2px
+    style WG_Draft fill:#02a1d7,stroke:#0b8cc5
+    style IESG_Eval fill:#3e95c8,stroke:#0b8cc5
+```
 
 # <a id="more">More information
 
