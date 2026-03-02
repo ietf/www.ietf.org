@@ -166,12 +166,10 @@ The [Internet Research Task Force](https://www.irtf.org/) (IRTF) is quite separa
 *   \[[RFC8716](https://datatracker.ietf.org/doc/rfc8716/)\] Update to the IETF Anti-Harassment Procedures
 *   [Ombudsteam](https://www.ietf.org/contact/ombudsteam/)
 
-Since much of the work in the IETF is conducted on mailing lists, a number of RFCs address that context:
+Since much of the work in the IETF is conducted on mailing lists and other on-line fora, some RFCs address that context:
 
 *   \[[RFC9245](https://datatracker.ietf.org/doc/rfc9245/)\] IETF Discussion List Charter
-*   \[[RFC3683](https://datatracker.ietf.org/doc/rfc3683/)\] A Practice for Revoking Posting Rights to IETF Mailing Lists
-*   \[[RFC3934](https://datatracker.ietf.org/doc/rfc3934/)\] Updates to RFC 2418 Regarding the Management of IETF Mailing Lists
-*   \[[RFC4633](https://datatracker.ietf.org/doc/rfc4633/)\] Experiment in Long-Term Suspensions From Internet Engineering Task Force (IETF) Mailing Lists
+*   \[[RFC9945](https://datatracker.ietf.org/doc/rfc9945/)\] IETF Community Moderation
 
 Additionally:
 
@@ -184,7 +182,7 @@ Additionally:
 _General information about the RFC Series and RFC Editor_
 
 *   \[[RFC8729](https://datatracker.ietf.org/doc/rfc8729/)\] The RFC Series and RFC Editor
-*   \[[RFC9280](https://datatracker.ietf.org/doc/rfc9280/)\] RFC Editor Model (Version 3)
+*   \[[RFC9920](https://datatracker.ietf.org/doc/rfc9920/)\] RFC Editor Model (Version 3)
 *   \[[RFC9282](https://datatracker.ietf.org/doc/rfc9282/)\] Responsibility Change for the RFC Series
 *   \[[RFC7841](https://datatracker.ietf.org/doc/rfc7841/)\] RFC Streams, Headers, and Boilerplates
 
