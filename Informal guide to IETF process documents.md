@@ -1,6 +1,20 @@
+<!-- 
+SLUG: /guide-process 
+-->
+
+TITLE: Informal guide to IETF process documents
+
+<!-- 
+INTRODUCTION
+-->
+
 This informal guide to documents about the Internet Engineering Task Force (IETF) standards process aims to assist IETF participants by providing an introduction to the variety of documents that describe it, as well as related groups and processes.
 
-This guide is updated irregularly and may be out of date when you read it if new official documents have appeared recently. Please refer to the latest RFCs, Internet Engineering Steering Group ([IESG](/about/groups/iesg/)) Statements, or discuss with Working Group chairs or Area Directors for current official guidance.
+<!-- 
+BODY 
+-->
+
+This guide is updated irregularly and may be out of date when you read it if new official documents have appeared recently. Please refer to the latest RFCs, Internet Engineering Steering Group ([IESG](/about/groups/iesg/)) Statements, or discuss with Working Group chairs or Area Directors for current official guidance. A complementary [Guide to IETF process standards process](https://www.ietf.org/process/guide-process) provides a narrative description of the IETF standards process, as well as related groups and processes.”
 
 * <a href="#introduction">Introduction</a>
 * <a href="#workflow">General description of workflow in the IETF</a>
