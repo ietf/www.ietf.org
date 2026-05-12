@@ -41,7 +41,7 @@
 
 <br>
 
-## <a id="meetings">About IETF Meetings</a>
+## <a id="about">About IETF Meetings</a>
 The IETF holds three week-long meetings a year. Onsite participation averages between 1000 and 1500 participants. Every effort is made to integrate the 600+ remote participants into the overall meeting experience.
 
 IETF meetings are working meetings with the primary goal of helping Working Groups (WGs) get their tasks done, and the secondary goal of promoting mixing among the WGs. Most of the agenda is comprised of multiple simultaneous sessions for Working Groups. Only a small section of the agenda is set aside for tutorials, a single industry presentation, one or two panel sessions, and two receptions for the whole community to come together. 
@@ -93,7 +93,7 @@ The main weekend session running across both Saturday and Sunday, is the [IETF H
 #### <a id="sprints">Code Sprint and Content Sprint</a>
 There are also two smaller sessions on the Saturday of a **Code Sprint**, where participants contribute patches and new features to the IETF Datatracker, and sometimes a **Content Sprint** where participants contribute text to IETF wikis and other documentation. Both these sessions have full support for remote participants.
 
-#### <a id="hotRFC">HotRFC</a>
+#### <a id="HotRFC">HotRFC</a>
 **HotRFC Lightning Talks** are held on Sunday evenings. These are a series of talks, where individuals talk through in just five minutes an idea or Internet-Draft (I-D) they have authored, with no questions or audience interaction.  These are a great way for people learn about a wide range of potential or new activity within the IETF.
 
 #### <a id="welcomereception">Welcome Reception</a>
