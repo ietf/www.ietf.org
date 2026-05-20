@@ -68,7 +68,7 @@ The **[IAB Stream](https://datatracker.ietf.org/stream/iab/)** and **[IRTF Strea
 
 The Editorial Stream, as described by [RFC 9280](https://www.rfc-editor.org/rfc/rfc9280.html) publishes policies governing the RFC Series as a whole.
 
-The **[Independent Submissions Stream](https://www.rfc-editor.org/about/independent/)** publishes RFCs that are outside the official processes of the IETF, IAB, and IRTF but are relevant to the Internet community and achieve reasonable levels of technical and editorial quality.
+The **[Independent Submissions Stream](https://www.rfc-editor.org/authors/rfc-independent-submissions/)** publishes RFCs that are outside the official processes of the IETF, IAB, and IRTF but are relevant to the Internet community and achieve reasonable levels of technical and editorial quality.
 
 ## <a id="obsoleting-and-updating">Obsoleting and updating</a>
 An RFC can be entirely obsoleted by a new RFC or have parts of it updated by other RFCs. A new RFC can update parts of multiple RFCs, and can obsolete multiple RFCs.
@@ -80,7 +80,7 @@ With one exception, once an RFC is published, it is never changed, which is why 
 
 If a technical or editorial error in an RFC is reported, an erratum may be created that documents the error and optionally provides a correction. Newly Reported errata are checked and either Verified, Rejected or Held for Document Update.  For Technical errata, this decision is made by the appropriate stream-specific party, and for Editorial errata, by the RFC Editor.
 
-The RFC Editor site has more details on these [statuses](https://www.rfc-editor.org/errata-definitions/) and a [searchable errata database](https://www.rfc-editor.org/errata.php).
+The RFC Editor site has more details on these [statuses](https://www.rfc-editor.org/series/rfc-errata/#statuses-of-errata) and a [searchable errata database](https://errata.rfc-editor.org/search/).
 
 Verified errata are linked to the RFC, but the RFC is not republished with the errata incorporated.  There is ongoing work to provide a good way of displaying an RFC with the errata incorporated.
 
