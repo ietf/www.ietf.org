@@ -23,7 +23,7 @@ BODY
 * <a href="#diagram">Diagram of generalized IETF standards process</a><br>
 * <a href="#more">More information</a><br>
 
-The IETF standards process, related processes, and the groups that guide and oversee them are defined in [RFCs](https://www.ietf.org/process/rfcs/)—many of which are further codified as Best Current Practices ([BCPs](https://www.ietf.org/process/rfcs/#series-structure))—and statements by the Internet Engineering Steering Group ([IESG](https://www.ietf.org/about/groups/iesg/)). A complementary [Guide to IETF process documents](https://www.ietf.org/process/guide-process-documents/) provides a more in-depth review of the variety of documents that describe the IETF standards process, as well as related groups and processes.
+The IETF standards process, related processes, and the groups that guide and oversee them are defined in [RFCs](https://www.ietf.org/process/rfcs/)—many of which are further codified as Best Current Practices ([BCPs](https://www.ietf.org/process/rfcs/#series-structure))—and statements by the Internet Engineering Steering Group ([IESG](https://www.ietf.org/about/groups/iesg/)). A complementary [Guide to IETF process documents](https://www.ietf.org/process/informal/) provides a more in-depth review of the variety of documents that describe the IETF standards process, as well as related groups and processes.
 
 This guide focuses on the process once ideas are determined to be within the scope of the IETF. The IETF also works on specifications that are within its scope but not Internet standards; his page includes some information about those to provide additional clarity about and context for its work on standards. 
 
