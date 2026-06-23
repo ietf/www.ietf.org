@@ -22,7 +22,7 @@ BODY
 * <a href="#flow">General process flow</a><br>
 		* <a href="#individual-phase"> Individual phase</a><br>
 		* <a href="#wg-phase">Working Group phase</a><br>
-		* <a href="i#seg-phase">IESG phase</a><br>
+		* <a href="#iesg-phase">IESG phase</a><br>
 * <a href="#diagram">Diagram of generalized IETF standards process
 * <a href="#more">More information</a><br>
 
@@ -83,7 +83,7 @@ Most I-Ds that do progress within the IETF do so within a Working Group. Once an
 6. **Working Group Last Call (WGLC)**  
    WG Chairs formally initiate this step by sending an email to the WG mailing list with a date by which all comments should be received. The goal of WGLC is to understand whether or not a document has rough consensus among WG participants (as judged by the WG Chairs) to progress to the next step of publication as an RFC. After review, the chairs may decide that a document does not have consensus in its current form, in which case it usually will be subject to further discussion in the WG, and another WGLC will be held. If the WG chairs decide an I-D does have consensus, then it will be submitted to the AD responsible for publication as an RFC.
 
-## <a id="iseg-phase">IESG Phase
+## <a id="iesg-phase">IESG Phase
 
 7. **Area Director (AD) Evaluation**  
    In this step, the responsible AD reviews the document with an aim of making sure it is ready for an IETF-wide Last Call (LC). The authors should reply to any comments or questions, but replies from others in the WG are also welcome. If major issues are found, a document's progress will be blocked until they are dealt with, which may require a new version of the I-D.
