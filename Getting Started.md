@@ -2,7 +2,7 @@ Welcome to the IETF!
 
 We recommend that everyone who wants to get started with the IETF reads our [Introduction to the IETF](https://www.ietf.org/about/introduction/) as this succinctly covers the basics of what we are, who we are, what we do and how we do it.
 
-Once you have a basic understanding of the IETF and an idea how you would like to get involved, we recommend that you read one of the following guides, depending on how you would like to start::
+Once you have a basic understanding of the IETF and an idea how you would like to get involved, we recommend that you read one of the following guides, depending on how you would like to start:
 
 * If you are interested in reading or implementing existing RFCs then [About RFCs](https://www.ietf.org/process/rfcs/) explains the basics of the RFC Series.
 * If you want to get involved in some work that is already in progress in the IETF, read the [Guide to IETF Working Groups](https://www.ietf.org/process/wgs/). This explains what a working group is, how to participate and how Working Groups operate. As almost all of the work of the IETF takes place in Working Groups, this is key reading for anyone who wishes to participate in the IETF.
