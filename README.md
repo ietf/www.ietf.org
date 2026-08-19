@@ -26,24 +26,19 @@ The following have all been published. For now, that is a manual process whereby
 
 * **[Introduction to the IETF](/Introduction%20to%20the%20IETF.md)**. This is published as a [page](https://www.ietf.org/about/introduction/). By necessity, this page has content in it that is repeated elsewhere, but excessive detail should be avoided.
 * **[Guide to IETF Meetings](/Guide%20to%20IETF%20Meetings.md)**. This is a published as a [page](https://www.ietf.org/meeting/guide-ietf-meetings/). It is written largely for those new to IETF meetings and is intentionally a long read.  Some elements are intentionally just brief references to other pages (e.g. Meeting Technology, Support for New Participants).
-* **[Support for new participants](/Support%20for%20new%20participants.md)**. This is published as a [section](https://www.ietf.org/how/meetings/new-participants/) of a page with the rest of that page including specific information about the upcoming IETF meeting.
 * **[Guide to bringing new work to the IETF](/Guide%20to%20bringing%20new%20work%20to%20the%20IETF.md)**.  This is published as a [page](https://www.ietf.org/process/new-work/) replacing the previous content on that page.
 * **[Guide to IETF Working Groups](/Guide%20to%20IETF%20Working%20Groups.md)**. This is published as a [page](https://www.ietf.org/process/wgs/) replacing the previous content on that page.
+* **[Guide to the IETF Standards Process](/Guide%20to%20the%20IETF%20standards%20process.md)**. This is published as a [page](https://www.ietf.org/process/process/) replacing the previous content on that page.
+* **[Support for new participants](/Support%20for%20new%20participants.md)**. This is published as a [section](https://www.ietf.org/how/meetings/new-participants/) of a page with the rest of that page including specific information about the upcoming IETF meeting.
 * **[About RFCs](/RFCs.md)**. This is published as a [page](https://www.ietf.org/process/rfcs/) replacing tbe previous content on that page.  This an Introduction but to preserve the original page name, it is not labelled as such
 * **[Informal guide to IETF process documents](/Informal%20guide%20to%20IETF%20process%documents.md)**.  This is published as a [page](https://www.ietf.org/process/informal/).  This is a rework of a long-standing page that is updated by community members.
 
 
-# Working content
-The following are all being worked on and may change or be reorganised at any point.
-
-* Introductions:
-  * **[Introduction to the structure of the IETF](/Introduction%20to%20the%20structure%20of%20the%20IETF.md)**.  This is largely complete, but is unlikely to be used as the revised website menu provides a better overall structure.
-  * **[Introduction to the work of the IETF](/Introduction%20to%20the%20Work%20of%20the%20IETF.md)**. This is largely complete as an extended version of the text that appears in the **Introduction to the IETF** but it is not yet clear how this fits with other pages.
-* Guides:
-  * **[Guide to being effective in the IETF](/Guide%20to%20being%20effective%20in%20the%20IETF.md)**. This is a collection of relevant text drawn from multiple sources, still to be organised.
-
 # Relationship to previous content
-* **Tao of the IETF**. [The Tao has been retired](https://www.rfc-editor.org/rfc/rfc9592.html) with the topics now covered in the new set of documents above, which are in many cases largely drawn from Tao content and cover the same subject matter, though written differently.  
+Much of this content was based on the **Tao of the IETF**. [The Tao has been retired](https://www.rfc-editor.org/rfc/rfc9592.html) with the topics now covered in the new set of documents above, largely drawn from Tao content though written differently.  
+
+On document is complete but remains unpublished as it most likely requires community input before it can be published:
+  * **[Guide to being effective in the IETF](/Guide%20to%20being%20effective%20in%20the%20IETF.md)**. 
 
 # Content style guide
 
