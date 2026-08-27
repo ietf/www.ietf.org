@@ -22,8 +22,6 @@ BODY
    * <a href="#individual-phase"> Individual phase</a>
    * <a href="#wg-phase">Working Group phase</a>
    * <a href="#iesg-phase">IESG phase</a>
-* <a href="#diagram">Diagram of generalized IETF standards process</a>
-* <a href="#more">More information</a>
 
 The IETF standards process, related processes, and the groups that guide and oversee them are defined in [RFCs](https://www.ietf.org/process/rfcs/)—many of which are further codified as Best Current Practices ([BCPs](https://www.ietf.org/process/rfcs/#series-structure))—and statements by the Internet Engineering Steering Group ([IESG](https://www.ietf.org/about/groups/iesg/)). A complementary [Guide to IETF process documents](https://www.ietf.org/process/informal/) provides a more in-depth review of the variety of documents that describe the IETF standards process, as well as related groups and processes.
 
@@ -97,55 +95,3 @@ Most I-Ds that do progress within the IETF do so within a Working Group. Once an
 
 **10. Publication as an RFC**  
    Once IESG approves an I-D for publication, the document is handed over to the RFC Editor for publication. At this stage, the RFC Publication Center (RPC) does a thorough editorial review to be sure the I-D is clear and comports with RFC Series editorial guidelines and style. Authors may be asked for clarification on specific points and will, during the phase called “AUTH48” be asked about specific changes the RPC wants to make. Once AUTH48 is complete, the I-D is officially published as an RFC by the RFC Editor.
-
-```mermaid
-graph TD
-    %% Individual Phase
-    Start([Idea / New Work]) --> ID[Write Internet-Draft]
-    ID --> Submission[Submit to Datatracker]
-    
-    %% WG Phase
-    Submission --> WG_Choice{Working Group?}
-    WG_Choice -- "Yes" --> WG_Adoption[WG Adoption Call]
-    WG_Choice -- "No" --> Individual[Individual Submission]
-    
-    WG_Adoption --> WG_Draft[Working Group Draft]
-    WG_Draft --> Iteration[Discussion & Iteration]
-    Iteration --> WGLC[Working Group Last Call - WGLC]
-    
-    %% IESG Review Phase
-    WGLC --> AD_Review[Area Director - AD - Review]
-    Individual --> AD_Review
-    
-    AD_Review --> IETF_LC[IETF Last Call]
-    IETF_LC --> IESG_Eval[IESG Evaluation / Ballot]
-    
-    %% Outcomes
-    IESG_Eval --> Approved{Approved?}
-    Approved -- "No" --> Iteration
-    Approved -- "Yes" --> RPC[RFC Production Center]
-    
-    %% Publication Phase
-    RPC --> Auth48[AUTH48 - Author Final Review]
-    Auth48 --> RFC_Published[[RFC Published]]
-    
-    %% Styling
-    style Start fill:#f95428,stroke:#f95428,stroke-width:2px
-    style RFC_Published fill:#002d3c,stroke:#0b8cc5,stroke-width:2px
-    style WG_Draft fill:#02a1d7,stroke:#0b8cc5
-    style IESG_Eval fill:#3e95c8,stroke:#0b8cc5
-```
-
-## <a id="more">More information</a>
-
-[Internet-Drafts](https://www.ietf.org/participate/ids/)
-
-[Working Groups](https://www.ietf.org/process/wgs/)
-
-[Open records](https://www.ietf.org/about/open-records/) 
-
-[Intellectual property rights](https://www.ietf.org/process/ipr/)
-
-[Mailing lists](https://www.ietf.org/participate/lists/)
-
-[Meetings](https://www.ietf.org/meeting/guide-ietf-meetings/)
