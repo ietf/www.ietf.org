@@ -18,7 +18,7 @@ A guide for people who have a new idea or some proposed work they wish to bring 
 The IETF sees over a thousand new ideas brought to it each year from a wide variety of people. Some of these ideas lead directly to new work items, while others contribute to other work. But many go nowhere. This guide explains how to bring new work to the IETF and what that entails.
 
 ## <a id="checklist">Is the IETF the right place to bring this work?</a>
-The IETF is a Standards Development Organization (SDO) that standardizes Internet protocols, operational best practice and Internet governance processes, and so this checklist is to help you decide if you need an SDO and if the IETF the right one and what part of the IETF do you need. 
+The IETF is a Standards Development Organization (SDO) that standardizes Internet protocols, operational best practice and Internet governance processes. This checklist is to help you decide if you need an SDO, whether the IETF is the right one, and what part of the IETF you need. 
 
 ### <a id="standarization">Is the work suitable and ready for standardization?</a>
 The IETF prefers work where there is an identified set of likely users who are committed to working on the specification. A successful standard requires interest and active participation from a diverse community of implementers with a need to interoperate.
