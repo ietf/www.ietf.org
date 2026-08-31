@@ -43,7 +43,7 @@ If you want to bring an idea to the IETF then you should to write it up as an In
 
 See the [Authors website](https://authors.ietf.org) to learn how to write and submit Internet-Drafts.
 
-When you submit an I-D you grant the IETF the necessary rights to work on the idea and this grant cannot be revoked later. You are free to patent your idea but you are required to disclose the existence of any such patent and patents will be taken into account when deciding whether or not a particular proposed work item should progress. See our [Guide to Intellectual Property Rights and the IETF](https://www.ietf.org/process/ipr/) for a basic introduction, and references to the relevant BCPs.
+When you submit an I-D, you grant the IETF the necessary rights to work on the idea. This grant cannot be revoked later. You are free to patent your idea, but you are required to disclose the existence of any such patent and patents will be taken into account when deciding whether or not a particular proposed work item should progress. See our [Guide to Intellectual Property Rights and the IETF](https://www.ietf.org/process/ipr/) for a basic introduction, and references to the relevant BCPs.
 
 ## <a id="community-of-interest">Build a community of interest</a>
 New work that has strong interest within the IETF community generally has a greater chance of making it to an RFC and there are a number of routes that can be used to build this community of interest. Proposing new work without doing the work to socialize and promote it, rarely results in uptake.  Furthermore, if these routes are tried and no support emerges for the new work, then it is unlikely to proceed any further.
