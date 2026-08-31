@@ -71,7 +71,6 @@ Some areas use "DISPATCH" groups, particularly during sessions at IETF meetings,
 DISPATCH groups help participants identify whether the work is a good fit for the IETF, and whether it should be advanced in a particular working group, might justify a new working group, or requires further progress before entering the standards process. The DISPATCH process is limited and focused, and tends to be the best choice for I-Ds that propose a specific technology, but is equally appropriate for all types of I-D.
 
 While presentations at DISPATCH sessions are typically focused on an I-D, the associated mailing lists can be useful places to begin a discussion even before an I-D has been written. 
-Each IETF Area also has an area working group; for areas without a dedicated dispatch group, one function of these area groups is to help guide new work.
 
 Each IETF [Area](https://www.ietf.org/process/areas/) also has an area working group; for areas without a dedicated dispatch group, one function of these area groups is to help guide new work.
 
