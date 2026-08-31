@@ -27,7 +27,7 @@ The IETF prefers work where there is an identified set of likely users who are c
 * **Is there interest in an interoperable solution?**. If there are already non-interoperable alternatives then the participation of the implementers of those alternatives would be an advantage.
 * **Are stakeholders willing to collaborate?** The standardization process entails collaboration and compromise.
 
-If the work is suitable for standardization but not ready, then there is still value in bringing it to the IETF as explained further below.  If the work is ready but not suitable for standardization then may wish to consider the [Independent Submissions Stream](https://www.rfc-editor.org/authors/rfc-independent-submissions/).
+If the work is suitable for standardization but not yet ready, there can still be value in bringing it to the IETF as explained further below.  If the work is ready but not suitable for standardization, you may wish to consider the [Independent Submissions Stream](https://www.rfc-editor.org/authors/rfc-independent-submissions/).
 
 ### <a id="scope">Is the work within scope for the IETF?</a>
 The IETF has a specific focus and so it is important to check that your proposed work item is appropriate for the IETF. What follows is a general checklist but it is not exhaustive and there are exceptions:
