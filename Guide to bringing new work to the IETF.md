@@ -76,6 +76,6 @@ Each IETF Area also has an area working group; for areas without a dedicated dis
 Each IETF [Area](https://www.ietf.org/process/areas/) also has an area working group; for areas without a dedicated dispatch group, one function of these area groups is to help guide new work.
 
 ## <a id="next-steps">Next steps</a>
-Taking an idea from initial Internet-Draft to RRFC is a long process and it requires considerable skill and effort in listening, finding creative solutions, working with others and writing clearly.
+Taking an idea from initial Internet-Draft to RFC is a long process. It requires considerable skill and effort in listening, finding creative solutions, working with others, and writing clearly.
 
 We recommend reading [Being effective in the IETF](https://www.ietf.org/participate/being-effective/) as your next step and familiarizing yourself with the [IETF Standards Process](https://www.ietf.org/process/process/)
