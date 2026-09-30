@@ -2,16 +2,17 @@ A guide for people who have a new idea or some proposed work they wish to bring 
 
 * <a href="#introduction">Introduction</a>
 * <a href="#checklist">Is the IETF the right place to bring this work?</a>
-   * <a href="#standarization">Is the work suitable and ready for standardization?</a>
-   * <a href="#scope">Is the work within scope for the IETF?</a>
+    * <a href="#standarization">Is the work suitable and ready for standardization?</a>
+    * <a href="#scope">Is the work within scope for the IETF?</a>
 * <a href="#internet-drafts">Write up the idea as an Internet-Draft (I-D)</a>
 * <a href="#community-of-interest">Build a community of interest</a>
-   * <a href="#hotrfc">HotRFC</a>
-   * <a href="#non-wg-mailing-list">Non-WG mailing list</a>
-   * <a href="#side-meetings">Side meetings</a>
+    * <a href="#hotrfc">HotRFC</a>
+    * <a href="#non-wg-mailing-list">Non-WG mailing list</a>
+    * <a href="#side-meetings">Side meetings</a>
 * <a href="#appropriate-part">Find the most appropriate part of the IETF to share your I-D</a>
-   * <a href="#existing-wgs">Existing Working Groups</a>
-   * <a href="#dispatch-or-area-group">Dispatch or Area Working Groups</a>
+    * <a href="#existing-wgs">Existing Working Groups</a>
+    * <a href="#dispatch-or-area-group">Dispatch or Area Working Groups</a>
+    * <a href="#bof">Request a BOF</a>
 * <a href="#next-steps">Next steps</a>
 
 ## <a id="introduction">Introduction</a>
@@ -73,6 +74,9 @@ DISPATCH groups help participants identify whether the work is a good fit for th
 While presentations at DISPATCH sessions are typically focused on an I-D, the associated mailing lists can be useful places to begin a discussion even before an I-D has been written. 
 
 Each IETF [Area](https://www.ietf.org/process/areas/) also has an area working group; for areas without a dedicated dispatch group, one function of these area groups is to help guide new work.
+
+### <a id="bof">Request a BOF</a>
+When you know there is good community of interest and you have a clear idea of how your ID might progress, then you can consider requesting a [BOF](https://www.ietf.org/process/bofs/) (Birds of a Feather), which is the normal pathway to create a new WG.
 
 ## <a id="next-steps">Next steps</a>
 Taking an idea from initial Internet-Draft to RFC is a long process. It requires considerable skill and effort in listening, finding creative solutions, working with others, and writing clearly.
