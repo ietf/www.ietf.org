@@ -73,7 +73,7 @@ There are times when you might have good reason to write a very long email. In t
 ### <a id="threads">Threads and useful subject lines</a>
 A sequence of emails, replies to replies, is called a thread and most email clients arrange emails into threads to make them easier to read.  The IETF mailing list archive, displays all messages as threads.
 
-When you have something new to say, start a new thread with a new email that is not a reply to another email. You do not need any permission to do so. Seperate threads are much easier for people to read and refer to later. 
+When you have something new to say, start a new thread with a new email that is not a reply to another email. You do not need any permission to do so. Separate threads are much easier for people to read and refer to later. 
 
 If your reply to an existing thread is moving to a different topic from the subject line, then change the subject line to indicate this. It is not rude or presumptuous to change the subject line of a thread, it is a necessary discipline so that readers know what the emails are about.
 
