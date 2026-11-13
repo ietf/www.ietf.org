@@ -1,6 +1,6 @@
 * <a href="#introduction">Introduction</a><br>
 * <a href="#many-people">It takes many people with many different views to build a resilient protocol</a><br>
-* <a href="#background-reading">Doing the backgound reading</a><br>
+* <a href="#background-reading">Doing the background reading</a><br>
 * <a href="#send-text">Send text</a><br>
 * <a href="#cadence">Following the IETF cadence</a>
    * <a href="#mailing-lists">Working with asynchronous mailing lists</a><br>
@@ -22,7 +22,7 @@ This means that when somebody raises a point that you do not think is relevant, 
 
 The other side of this, is that as an IETF participant you are free to comment on any idea that is proposed. You do not need an invitation.
 
-## <a id="background-reading">Doing the backgound reading</a>
+## <a id="background-reading">Doing the background reading</a>
 The context for any IETF discussion is in the relevant Internet-Drafts, related RFCs and list archives. Doing the background reading to understand this context is vital for effective participation.
 
 Internet-Drafts (I-Ds) are the core mechanism for IETF participants to share ideas. These often refer to RFCs or other I-Ds by way of background. If you want to fully participate in any discussion in the IETF then you will need to read the I-Ds related to that discussion and any RFCs or other documents that they refer to. Each WG has a [page](https://datatracker.ietf.org/wg/) that lists that group's published RFCs and adopted I-Ds. WGs are notified about unadopted but relevant I-Ds via the WG mailing list by the authors.  
@@ -58,7 +58,7 @@ Then, during the meeting itself, there are the sessions (not all WGs meet at any
 
 However, and this is a key point to remember, meetings are non-decision making - any proposed decisions have to be taken to the mailing list after the meeting to ensure that anyone who could not make the meeting has a chance to engage. 
 
-If you can't make a session for a WG that you are actively tracking, then it is strongly recommended that you watch the video of the session otherwise you will miss out on some important context. The video recordings are in the public [video archive](https://www.youtube.com/channel/UC8dtK9njBLdFnBahHFp0eZQ) and the materials for each session (presenations, notes, agenda) are posted for every [past meeting on the IETF Datatracker](https://datatracker.ietf.org/meeting/past).
+If you can't make a session for a WG that you are actively tracking, then it is strongly recommended that you watch the video of the session otherwise you will miss out on some important context. The video recordings are in the public [video archive](https://www.youtube.com/channel/UC8dtK9njBLdFnBahHFp0eZQ) and the materials for each session (presentations, notes, agenda) are posted for every [past meeting on the IETF Datatracker](https://datatracker.ietf.org/meeting/past).
 
 ## <a id="using-email">Using email for a structured discussion</a>
 Email is a tool that can be used in many different ways, and in the IETF there is a particular way that is the most productive and the most effective. This is not about netiquette or some old-fashioned idea of how email should be used - this is a specific method that uses email very similarly to issue trackers such as GitHub, and thereby makes it as easy as possible for other readers to follow and later reference a discussion.
