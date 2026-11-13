@@ -105,10 +105,22 @@ If you want to say something about reasons A and C you should reply as follows (
 >
 > _My thoughts on reason C are ..._
 
+Sometime you will see people prefix their reply with their initials or first name in square brackets, particularly if their mail client does not support sending in plain text:
+
+>> I think we should add X to this because
+>> 1. Reason A.
+>
+> _[AB] My thoughts on reason A are ..._
+>> 3. Reason C.
+>
+> _[AB] My thoughts on reason C are ..._
+
 It is fine to reply to multiple messages in one response, if the points they have made are sufficiently related that this is needed. All you need do is quote one message and add your reply, and then quote the next message and reply.
 
 ### <a id="rich-text">Problems with rich text formatting</a>
-Using rich text formatting attributes, such as colour or italic, to highlight specific text (e.g. "replies in red") is probematic for a number of reasons: it is insensitive to those with vision disabilities; a surprising number of people use mail clients that do not show HTML; and all of that context is lost in the archives as those are only plain text. If possible, it is better to avoid rich text altogether as the message you think you are sending may not be what is received. Most modern email clients have a setting that will allow you to compose emails using plain text only.
+Using rich text formatting attributes, such as colour or italic, to highlight specific text (e.g. "replies in red") is problematic for a number of reasons: it is insensitive to those with vision disabilities; a surprising number of people use mail clients that do not show HTML; and, all of that context is lost in the archives as those are only plain text. 
+
+Many modern email clients have a setting that will allow you to compose emails using plain text only, however not all do and some have that setting disabled by corporate policy.  If your email client supports plain text then it is better to avoid rich text altogether. 
 
 ## <a id="communication-style">General style of communications</a>
 The IETF is an engineering organisation, where many participants write/talk directly and concisely and similarly expect to read/listen to direct and concise communication. This can sometimes come across as rudeness or impatience when neither were intended.  Of course, politeness helps with participant interaction and is positively encouraged.
