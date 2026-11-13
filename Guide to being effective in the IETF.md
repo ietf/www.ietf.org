@@ -3,13 +3,13 @@
 * <a href="#background-reading">Doing the background reading</a><br>
 * <a href="#send-text">Send text</a><br>
 * <a href="#cadence">Following the IETF cadence</a>
-   * <a href="#mailing-lists">Working with asynchronous mailing lists</a><br>
-   * <a href="#meetings">Keeping up with IETF Meetings</a><br>
+    * <a href="#mailing-lists">Working with asynchronous mailing lists</a><br>
+    * <a href="#meetings">Keeping up with IETF Meetings</a><br>
 * <a href="#using-email">Using email for a structured discussion</a><br>
-   * <a href="#short">Short and to-the-point</a><br>
-   * <a href="#threads">Threads and useful subject lines</a><br>
-   * <a href="#replying-below">Replying below quoted text</a><br>
-   * <a href="#rich-text">Avoid rich text formatting</a><br>
+    * <a href="#short">Short and to-the-point</a><br>
+    * <a href="#threads">Threads and useful subject lines</a><br>
+    * <a href="#replying-below">Replying below quoted text</a><br>
+    * <a href="#rich-text">Avoid rich text formatting</a><br>
 * <a href="#communication-style">General style of communications</a><br>
 
 ## <a id="introduction">Introduction</a>
