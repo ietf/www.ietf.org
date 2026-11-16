@@ -178,7 +178,7 @@ Some participants will have one or more little colored dots on their name badge.
 | Pink   | IRSG member |
 | Orange | Nominating Committee member |
 | Black  | IETF LLC Board |
-| Purple | IETF Trustee |
+| Purple | IPMC Director |
 
 Registered members of the media wear badges that have orange ribbons and the word "Press" on them.
 
