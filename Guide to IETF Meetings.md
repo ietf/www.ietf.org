@@ -183,7 +183,7 @@ Some participants will have one or more little colored dots on their name badge.
 Registered members of the media wear badges that have orange ribbons and the word "Press" on them.
 
 ### <a id="networkpower">Network and Power</a>
-The IETF Wi-Fi is provided by volunteers and contractors who run the Network Operations Center (NOC). They set up a high-speed network throughout the hotel for the duration of the meeting, including the accommodation floors and common areas (restaurants, coffee shops, and so on). There's no charge to use the IETF WiFi and the service is not filtered. A number of different Wi-Fi networks are provided to support different access addressing mechanisms.
+The IETF Wi-Fi is provided by volunteers and contractors who run the Network Operations Center (NOC). They set up a high-speed network throughout the hotel for the duration of the meeting, including the accommodation floors and common areas (restaurants, coffee shops, and so on). There's no charge to use the IETF Wi-Fi and the service is not filtered. A number of different Wi-Fi networks are provided to support different access addressing mechanisms.
 
 The NOC provide support, both remotely and at a dedicated NOC helpdesk near the Registration Desk.
 
@@ -202,7 +202,7 @@ Any lost and found items should be taken to the registration desk (the IETF regi
 The Lounge is a large room, set out with tables and chairs, which is open to all participants who need somewhere to meet or work or just take time out.
 
 ### <a id="terminalroom">Terminal Room</a>
-The terminal room provides power and WiFi for people who want to work quietly. What it doesn't provide are terminals; the name is historical. 
+The terminal room provides power and Wi-Fi for people who want to work quietly. What it doesn't provide are terminals; the name is historical. 
 
 ## <a id="interacting">Interacting with Other Participants</a>
 
