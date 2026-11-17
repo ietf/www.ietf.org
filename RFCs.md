@@ -1,6 +1,7 @@
 * <a href="#introduction">Introduction</a><br/>
 * <a href="#series-structure">Structure of the series</a><br/>
 * <a href="#availability-and-use">Availability and use</a><br/>
+* <a href="#links-and-references">Links and references</a><br/>
 * <a href="#formats">Publication formats</a><br/>
 * <a href="#statuses">Statuses</a><br/>
 * <a href="#streams">Publication streams</a><br/>
@@ -24,6 +25,12 @@ The RFC series has two subseries, STDs and BCPs, with each numbered STD and BCP 
 RFCs are freely available to download, copy, publish, display and distribute, in a variety of formats, under a license granted by the [IETF Trust](https://trustee.ietf.org). This license, the [Trust Legal Provisions](https://trustee.ietf.org/documents/trust-legal-provisions/tlp-5/) has some important restrictions, including a prohibition on modification of IETF RFCs outside of the IETF Standards Process.
 
 RFCs are not guaranteed to be patent-free and anyone interested in the Intellectual Property Rights (IPR) constraints on a specific document should consult the IETF's [IPR disclosure database](https://datatracker.ietf.org/ipr/), though this is not guaranteed to be a complete record of applicable patents. 
+
+## <a id="links-and-references">Links and references</a>
+
+The canonical web link for an RFC takes the form of ```https://www.rfc-editor.org/info/rfcNNNNN``` where ```NNNNN``` is the RFC number.
+
+DOIs (Digital Object Identifiers) and formatted reference entries (in TXT, XML, and BibXML formats) are available for every RFC from the "About this RFC" tab on each RFC's ```/info/``` webpage.
 
 ## <a id="formats">Publication formats</a>
 RFCs are published in the following formats:
