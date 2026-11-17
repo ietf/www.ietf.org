@@ -183,7 +183,7 @@ Some participants will have one or more little colored dots on their name badge.
 Registered members of the media wear badges that have orange ribbons and the word "Press" on them.
 
 ### <a id="networkpower">Network and Power</a>
-The IETF WiFi is provided by volunteers and contractors who run the Network Operations Center (NOC). They set up a high-speed network throughout the hotel for the duration of the meeting, including the accommodation floors and common areas (restaurants, coffee shops, and so on). There's no charge to use the IETF WiFi and the service is not filtered. A number of different WiFi networks are provided to support different access addressing mechanisms.
+The IETF Wi-Fi is provided by volunteers and contractors who run the Network Operations Center (NOC). They set up a high-speed network throughout the hotel for the duration of the meeting, including the accommodation floors and common areas (restaurants, coffee shops, and so on). There's no charge to use the IETF WiFi and the service is not filtered. A number of different Wi-Fi networks are provided to support different access addressing mechanisms.
 
 The NOC provide support, both remotely and at a dedicated NOC helpdesk near the Registration Desk.
 
