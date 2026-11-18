@@ -28,9 +28,7 @@ RFCs are not guaranteed to be patent-free and anyone interested in the Intellect
 
 ## <a id="links-and-references">Links and references</a>
 
-The canonical web link for an RFC takes the form of ```https://www.rfc-editor.org/info/rfcNNNNN``` where ```NNNNN``` is the RFC number.
-
-DOIs (Digital Object Identifiers) and formatted reference entries (in TXT, XML, and BibXML formats) are available for every RFC from the "About this RFC" tab on each RFC's ```/info/``` webpage.
+The canonical web link for an RFC takes the form of ```https://www.rfc-editor.org/info/rfcNNNNN``` where ```NNNNN``` is the RFC number. This is the preferred URL to use when linking to an RFC on the web. Formatted reference entries (in TXT, XML, and BibXML formats) and DOIs (Digital Object Identifiers) are available for every RFC from the "About this RFC" tab on each RFC's ```/info/``` webpage.
 
 ## <a id="formats">Publication formats</a>
 RFCs are published in the following formats:
